@@ -22,5 +22,13 @@
     "simulated_count_at_0_01mm": 550,
     "script_errors": 0
   },
-  "physical_qualification": false
+  "physical_qualification": false,
+  "shell_input_matches_accepted_source_motion": {
+    "poses": 1981,
+    "max_contact_delta_mm": 0.0,
+    "max_normal_delta": 0.0,
+    "max_across_delta": 0.0,
+    "max_along_delta": 0.0
+  },
+  "streamlit_complete_document_build": true
 }
