@@ -1,0 +1,5 @@
+# C2 R03 — Retour à la référence / Return to reference
+
+À la demande de l’utilisateur, les deux documents HTML d’examen sont rétablis à l’identique de la version UT C2 acceptée `c69d400`. Les sommes SHA-256 sont vérifiées au chargement. Les résultats et exports ne changent pas. La superposition du scanner et ses commandes ajoutées sont retirées de la vue principale pendant la revue du positionnement et du rendu des tirs. Les versions de conception antérieures restent dans l’historique Git ; leurs contrôles géométriques partiels ne valident pas l’installation complète entre les aubes.
+
+At the user’s request, both examination HTML documents are restored byte-for-byte to accepted C2 UT revision `c69d400`. SHA-256 digests are checked on load. Results and exports are unchanged. Scanner overlay and its added controls are removed from the main view while positioning and ray display are reviewed. Previous design versions remain in Git history; their partial geometry checks do not validate full installation between the blades.
