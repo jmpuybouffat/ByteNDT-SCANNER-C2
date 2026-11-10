@@ -1,0 +1,42 @@
+[
+  {
+    "id": "V01_INSERT_GABARIT_REFERENCE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "C03_COQUILLE_ROTULE_DROITE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "C01_CHARIOT_CLE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "P01_GABARIT_VOLUME_20_NON_UT",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "C02_COQUILLE_ROTULE_GAUCHE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "R01_RESSORT_ENVELOPPE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "T01_TIGE_AXIALE_REFERENCE",
+    "valid": true,
+    "mirrored_local_across": true
+  },
+  {
+    "id": "J01_ROTULE_TIGE_M3_REFERENCE",
+    "valid": true,
+    "mirrored_local_across": true
+  }
+]

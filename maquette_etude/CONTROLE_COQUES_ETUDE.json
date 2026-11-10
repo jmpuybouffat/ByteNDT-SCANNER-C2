@@ -1,0 +1,48 @@
+{
+  "sampling_mm": 1.0,
+  "wall_study_mm": 4.0,
+  "clearance_study_mm": 0.5,
+  "split_gap_study_mm": 0.8,
+  "path_changed": false,
+  "checks": {
+    "H01_COQUE_A_ETUDE": {
+      "components_before_cleanup": 7,
+      "component_vertices": [
+        153370,
+        14,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "retained_component_vertices": 153370,
+      "triangles": 306984,
+      "closed_edges": true
+    },
+    "H02_COQUE_B_ETUDE": {
+      "components_before_cleanup": 4,
+      "component_vertices": [
+        6,
+        42552,
+        6,
+        6
+      ],
+      "retained_component_vertices": 42552,
+      "triangles": 85108,
+      "closed_edges": true
+    }
+  },
+  "water_bore_study_mm": 3,
+  "outlet_bore_study_mm": 2,
+  "water_status": "Coarse provisional geometry; channel continuity and wetting unverified",
+  "pending": [
+    "slot fit and full swept clearance",
+    "retained components completeness",
+    "split plane and installation",
+    "pads and clamping",
+    "upper lip water distribution",
+    "print tolerances and strength"
+  ],
+  "status": "Unverified visual/mechanical concept only"
+}

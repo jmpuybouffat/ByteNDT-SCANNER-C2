@@ -1,0 +1,45 @@
+{
+  "scope": "Coarse 1 mm field; vertices and triangle centres sampled at 1981 poses; no continuous or physical qualification",
+  "parts": {
+    "C01_CHARIOT_CLE": {
+      "minimum_sampled_mm": 0.17488093674182892,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 0.8
+    },
+    "C02_COQUILLE_ROTULE_GAUCHE": {
+      "minimum_sampled_mm": 15.172211647033691,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 198.0
+    },
+    "C03_COQUILLE_ROTULE_DROITE": {
+      "minimum_sampled_mm": 7.5025434494018555,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 47.5
+    },
+    "P01_GABARIT_VOLUME_20_NON_UT": {
+      "minimum_sampled_mm": 3.0000274181365967,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 163.5
+    },
+    "J01_ROTULE_TIGE_M3_REFERENCE": {
+      "minimum_sampled_mm": 14.629423141479492,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 57.400000000000006
+    },
+    "T01_TIGE_AXIALE_REFERENCE": {
+      "minimum_sampled_mm": 17.277965545654297,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 47.400000000000006
+    },
+    "R01_RESSORT_ENVELOPPE": {
+      "minimum_sampled_mm": 15.370600700378418,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 46.900000000000006
+    },
+    "V01_INSERT_GABARIT_REFERENCE": {
+      "minimum_sampled_mm": 14.36910629272461,
+      "poses_with_penetration_over_0_2mm": 0,
+      "worst_phase": 0.0
+    }
+  }
+}

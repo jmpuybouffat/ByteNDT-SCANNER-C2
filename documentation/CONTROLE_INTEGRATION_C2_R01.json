@@ -1,0 +1,26 @@
+{
+  "source_revision": "c69d40065bd8d24dfec2f03e8d43145025c9243c",
+  "original_payload_checks": [
+    {
+      "document": "00_OUVRIR_CYCLE_C2_FR_EN.html",
+      "original_script_prefix_unchanged": true
+    },
+    {
+      "document": "SCENE_C2_SYNCHRONISEE.html",
+      "original_script_prefix_unchanged": true
+    }
+  ],
+  "original_reports_exports_unchanged": true,
+  "browser_checks": {
+    "shells": 2,
+    "mobile_parts": 8,
+    "TFM_traces": 4,
+    "voxel_traces": 5,
+    "export_links_embedded": true,
+    "FR_EN_switch": true,
+    "forward_travel_observed_mm": 5.5,
+    "simulated_count_at_0_01mm": 550,
+    "script_errors": 0
+  },
+  "physical_qualification": false
+}

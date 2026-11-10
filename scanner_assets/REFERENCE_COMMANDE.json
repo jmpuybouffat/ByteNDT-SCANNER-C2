@@ -1,0 +1,20 @@
+{
+  "version": "C2_SCANNER_EXAMEN_COMPLET_R01",
+  "source_contact_sha256": "357b0896a7203d08eb84c27bf119718063440c5d641aeeee51e44668492a2393",
+  "path_length_mm": 229.30850524527705,
+  "source_poses": 1981,
+  "source_shots": 199,
+  "entry_side": "EXTRADOS",
+  "target": "first INTRADOS groove G1",
+  "reference_EDMs": [
+    "EDM_06",
+    "EDM_07",
+    "EDM_08",
+    "EDM_09",
+    "EDM_10",
+    "EDM_11"
+  ],
+  "encoder": "simulated original continuous path length, not hardware",
+  "UT_acquisition": "original frozen C2 examination tables and encoded responses replayed; not physical acquisition",
+  "local_mechanical_mirror": "Across coordinate reflected for C2 carrier and upper lip; source acoustic frames unchanged"
+}
