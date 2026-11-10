@@ -6,30 +6,25 @@
   "path_changed": false,
   "checks": {
     "H01_COQUE_A_ETUDE": {
-      "components_before_cleanup": 7,
+      "components_before_cleanup": 4,
       "component_vertices": [
-        153370,
-        14,
-        6,
-        6,
+        161944,
         6,
         6,
         6
       ],
-      "retained_component_vertices": 153370,
-      "triangles": 306984,
+      "retained_component_vertices": 161944,
+      "triangles": 323940,
       "closed_edges": true
     },
     "H02_COQUE_B_ETUDE": {
-      "components_before_cleanup": 4,
+      "components_before_cleanup": 2,
       "component_vertices": [
         6,
-        42552,
-        6,
-        6
+        41658
       ],
-      "retained_component_vertices": 42552,
-      "triangles": 85108,
+      "retained_component_vertices": 41658,
+      "triangles": 83312,
       "closed_edges": true
     }
   },

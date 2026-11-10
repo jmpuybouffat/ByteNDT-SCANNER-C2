@@ -1,5 +1,5 @@
 {
-  "version": "C2_SCANNER_EXAMEN_COMPLET_R01",
+  "version": "C2_SCANNER_EXAMEN_COMPLET_R02",
   "source_contact_sha256": "357b0896a7203d08eb84c27bf119718063440c5d641aeeee51e44668492a2393",
   "path_length_mm": 229.30850524527705,
   "source_poses": 1981,
@@ -16,5 +16,11 @@
   ],
   "encoder": "simulated original continuous path length, not hardware",
   "UT_acquisition": "original frozen C2 examination tables and encoded responses replayed; not physical acquisition",
-  "local_mechanical_mirror": "Across coordinate reflected for C2 carrier and upper lip; source acoustic frames unchanged"
+  "local_mechanical_mirror": "Across coordinate reflected for C2 carrier and upper lip; source acoustic frames unchanged",
+  "mechanical_correction": {
+    "root_mesh_vertices_merged": true,
+    "guide_key_normal_offset_delta_mm": 4,
+    "source_PA_contact_path_changed": false,
+    "virtual_acoustic_origin_changed": false
+  }
 }

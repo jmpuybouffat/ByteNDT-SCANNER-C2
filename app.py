@@ -4,8 +4,8 @@ import streamlit as st
 import streamlit.components.v1 as components
 from publication_view import build_publication_document
 st.set_page_config(page_title="BYTE NDT — Scanner C2 — FR / EN",layout="wide",initial_sidebar_state="collapsed")
-st.caption("BYTE NDT · SCANNER C2 · OPÉRATEUR / OPERATOR · ÉTUDE 01 / STUDY 01 — SCANNER + EXAMEN C2 COMPLET / SCANNER + COMPLETE C2 EXAMINATION")
-st.info("R01 : application C2 complète, deux coques conformes et slot intégré, avec circuit d’eau provisoire dans la lèvre supérieure. Maillage de conception ; serrage, patins, motorisation et aptitude à la fabrication restent à vérifier. / R01: full C2 application, two conformal shells and integrated slot, with a provisional upper-lip water circuit. Concept mesh; clamping, pads, motor drive and manufacturing suitability remain to be checked.")
+st.caption("BYTE NDT · SCANNER C2 · OPÉRATEUR / OPERATOR · ÉTUDE 02 / STUDY 02 — SCANNER + EXAMEN C2 COMPLET / SCANNER + COMPLETE C2 EXAMINATION")
+st.info("R02 : application C2 complète, deux coques conformes et slot intégré, avec circuit d’eau provisoire dans la lèvre supérieure. Maillage de conception ; serrage, patins, motorisation et aptitude à la fabrication restent à vérifier. / R02: full C2 application, two conformal shells and integrated slot, with a provisional upper-lip water circuit. Concept mesh; clamping, pads, motor drive and manufacturing suitability remain to be checked.")
 p=Path(__file__).parent/"scanner_assets"
 # Read the release document directly: never retain an older geometry in cache.
 def document():

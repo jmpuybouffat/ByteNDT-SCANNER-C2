@@ -21,7 +21,7 @@
   },
   "SCENE_C2_SYNCHRONISEE.html": {
     "source_sha256": "ac4afe558c37ae96def8f086442111e53250bbb57a60b1e8cb70b49c03afcab6",
-    "integrated_sha256": "a7d12a63a982adcd5222c5d1571de8918dc8744a710e9efc81032802ef0e7f10",
+    "integrated_sha256": "058938b1d6828c2bc2b525a252c7e0dd5b1b396bfc632ddead62478a1af010f5",
     "display_hooks_added": true
   },
   "C2_CONTEXTE_REFERENCE.json": {
@@ -31,7 +31,7 @@
   },
   "00_OUVRIR_CYCLE_C2_FR_EN.html": {
     "source_sha256": "464fb188c1a602b3b5300ec7242bb7f180020287d1eb5a398564c5bf5131604c",
-    "integrated_sha256": "de0bec2d2ea7b9fc12ddc0a3f5ab627b448dbeeaf55d6e4d5ee1cf6a595a4135",
+    "integrated_sha256": "feae7a7475f3d5207c8aadc568ea1c35fb0002c816aee00e76a4d381cd1f7fd9",
     "display_hooks_added": true
   },
   "NOTICE_C2_FR_EN.pdf": {

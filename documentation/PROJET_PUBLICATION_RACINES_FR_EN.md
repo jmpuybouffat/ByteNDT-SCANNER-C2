@@ -30,7 +30,7 @@ EN: Present a complete, reproducible industrial case from examination procedure 
 - C1 UT : `jmpuybouffat/ByteNDT-B014-TRUE-TWIN`, branche `publication/c1-3aubes-fr-en`, révision mécanique acceptée `a2b847e4a265fdbbff656bf0da7dac7cc0bc152b`.
 - C2 UT : `jmpuybouffat/ByteNDT-B014-C2-TRUE-TWIN`, branche `publication/c2-3aubes-fr-en`, révision `c69d40065bd8d24dfec2f03e8d43145025c9243c`.
 - Scanner C1 complet : `jmpuybouffat/ByteNDT-SCANNER-C1`, R06, révision `584db38`.
-- Scanner C2 : `jmpuybouffat/ByteNDT-SCANNER-C2`, R01, révision de diffusion à relever après publication / release revision to record after publication.
+- Scanner C2 : `jmpuybouffat/ByteNDT-SCANNER-C2`, R02, révision de diffusion à relever après publication / release revision to record after publication.
 - Les manifestes des assets donnent les SHA-256 des fichiers sources et intégrés / Asset manifests provide SHA-256 digests of source and integrated files.
 - Les scripts de construction et les dépendances utilisés doivent être joints ou décrits avec leurs versions dans le dossier de reproductibilité / Include or document construction scripts and dependencies with versions in the reproducibility dossier.
 - Imasonic : matrice 8 × 8 envisagée ; référence exacte de la sonde, du sabot et du câble à confirmer par la documentation constructeur / Proposed 8 × 8 matrix; exact probe, wedge and cable references require manufacturer documentation.
@@ -67,3 +67,9 @@ EN: First target to assess: **NDT & E International** for a scientific paper cen
 FR : Le dossier peut être proposé à Fabrice Foucher / EXTENDE pour un regard critique sur la méthode, les hypothèses et le positionnement du travail. Cette lecture n’est pas présumée et ne constitue pas une approbation par CIVA. Aucun message n’est envoyé par l’application.
 
 EN: The dossier may be offered to Fabrice Foucher / EXTENDE for technical feedback on method, assumptions and positioning. Such review is not presumed and does not constitute CIVA endorsement. The application sends no messages.
+
+## Contrôle de la construction géométrique / Geometry construction checks
+
+FR : Avant de construire une empreinte, raccorder les sommets du maillage et vérifier sa fermeture ainsi que la cohérence intérieur/extérieur du champ de distance. Le domaine de calcul doit contenir toute la pièce d’outillage. Vérifier séparément l’absence d’intersection chariot/racine et chariot/coques. Une bonne image ne valide ni le montage, ni le couplage, ni la qualité de fabrication.
+
+EN: Before constructing an imprint, merge mesh vertices and check closure and consistent inside/outside signed-distance classification. The calculation domain must contain the entire tooling geometry. Check carriage/root and carriage/shell intersections separately. A readable image does not validate installation, acoustic coupling or manufacturing quality.

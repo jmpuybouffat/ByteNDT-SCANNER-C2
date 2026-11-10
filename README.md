@@ -15,3 +15,7 @@ The accepted C2 UT data and registration are preserved. The original encoded res
 - Suggested app URL: `bytendt-lsb941-scanner-c2-fr-en` (availability to check)
 
 Do not modify the accepted C1 scanner or the reference UT applications. Documentation and source manifests accompany the package.
+
+## R02 — Geometry and section correction
+
+Reconnected root mesh before signed-distance construction, corrected guide-key/root overlap, recomputed both conformal shells and upper-lip water routing. Added PA-follow view and actual-mesh contact/origin/G1 section. Source path and UT data unchanged. See `documentation/CORRECTION_C2_R02_FR_EN.md`. Mechanical mock-up remains unqualified for functional manufacture.

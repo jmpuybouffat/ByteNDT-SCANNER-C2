@@ -2,44 +2,44 @@
   "scope": "Coarse 1 mm field; vertices and triangle centres sampled at 1981 poses; no continuous or physical qualification",
   "parts": {
     "C01_CHARIOT_CLE": {
-      "minimum_sampled_mm": 0.17488093674182892,
+      "minimum_sampled_mm": 0.11559641361236572,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 0.8
+      "worst_phase": 1.0
     },
     "C02_COQUILLE_ROTULE_GAUCHE": {
-      "minimum_sampled_mm": 15.172211647033691,
+      "minimum_sampled_mm": 5.469851016998291,
       "poses_with_penetration_over_0_2mm": 0,
       "worst_phase": 198.0
     },
     "C03_COQUILLE_ROTULE_DROITE": {
-      "minimum_sampled_mm": 7.5025434494018555,
+      "minimum_sampled_mm": 6.617268085479736,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 47.5
+      "worst_phase": 182.9
     },
     "P01_GABARIT_VOLUME_20_NON_UT": {
-      "minimum_sampled_mm": 3.0000274181365967,
+      "minimum_sampled_mm": 0.6320024132728577,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 163.5
+      "worst_phase": 198.0
     },
     "J01_ROTULE_TIGE_M3_REFERENCE": {
-      "minimum_sampled_mm": 14.629423141479492,
+      "minimum_sampled_mm": 11.470745086669922,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 57.400000000000006
+      "worst_phase": 86.10000000000001
     },
     "T01_TIGE_AXIALE_REFERENCE": {
-      "minimum_sampled_mm": 17.277965545654297,
+      "minimum_sampled_mm": 14.884212493896484,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 47.400000000000006
+      "worst_phase": 198.0
     },
     "R01_RESSORT_ENVELOPPE": {
-      "minimum_sampled_mm": 15.370600700378418,
+      "minimum_sampled_mm": 11.592065811157227,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 46.900000000000006
+      "worst_phase": 198.0
     },
     "V01_INSERT_GABARIT_REFERENCE": {
-      "minimum_sampled_mm": 14.36910629272461,
+      "minimum_sampled_mm": 11.222468376159668,
       "poses_with_penetration_over_0_2mm": 0,
-      "worst_phase": 0.0
+      "worst_phase": 86.10000000000001
     }
   }
 }

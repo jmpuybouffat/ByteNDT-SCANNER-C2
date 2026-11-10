@@ -1,0 +1,25 @@
+{
+  "scope": "Closed connected root mesh; coarse 1mm distance field; vertices and triangle centres at 1981 poses; not physical validation",
+  "parts": {
+    "C01_CHARIOT_CLE": {
+      "minimum_signed_root_distance_mm": 1.4424079656600952,
+      "poses_with_sampled_penetration_over_0_5mm": 0,
+      "worst_phase": 0.0
+    },
+    "P01_GABARIT_VOLUME_20_NON_UT": {
+      "minimum_signed_root_distance_mm": -0.0397629477083683,
+      "poses_with_sampled_penetration_over_0_5mm": 0,
+      "worst_phase": 112.4
+    },
+    "C02_COQUILLE_ROTULE_GAUCHE": {
+      "minimum_signed_root_distance_mm": 14.672211647033691,
+      "poses_with_sampled_penetration_over_0_5mm": 0,
+      "worst_phase": 198.0
+    },
+    "C03_COQUILLE_ROTULE_DROITE": {
+      "minimum_signed_root_distance_mm": 11.117267608642578,
+      "poses_with_sampled_penetration_over_0_5mm": 0,
+      "worst_phase": 182.9
+    }
+  }
+}

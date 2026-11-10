@@ -1,0 +1,35 @@
+{
+  "root_mesh": {
+    "input_triangle_vertices": 17940,
+    "connected_vertices": 2996,
+    "boundary_or_nonmanifold_edges": 0,
+    "merge_tolerance_mm": 1e-06,
+    "signed_distance_control": {
+      "source_contact_pose_126_offset_along_normal_mm": 15,
+      "outside_distance_mm": 14.930012445988154,
+      "inside_distance_mm": -14.995352278023034
+    }
+  },
+  "mechanics": {
+    "guide_key_outward_shift_mm": 4,
+    "source_PA_path_changed": false,
+    "closed_shell_meshes": 2,
+    "exact_CAD_carriage_root_intersection_volume_mm3_at_poses_1_126_199": [
+      0,
+      0,
+      0
+    ],
+    "sampled_root_minimum_carriage_clearance_mm": 1.4424079656600952,
+    "sampled_shell_minimum_carriage_clearance_mm": 0.11559641361236572,
+    "sampling_resolution_mm": 1,
+    "manufacturing_qualified": false
+  },
+  "incidence_section": {
+    "definition": "contact + blade normal + G1; virtual acoustic origin projected if off-plane",
+    "poses_checked": 1981,
+    "maximum_adjacent_plane_rotation_deg": 0.3210669465258411,
+    "maximum_virtual_origin_plane_offset_mm": 0.27361512572388186,
+    "physical_accuracy_claim": false
+  },
+  "UT_data_and_source_coordinate_registration_changed": false
+}
