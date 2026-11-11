@@ -22,6 +22,7 @@ Les **quatre applications sont acceptées dans la revue numérique de Jean-Miche
 - **[Cadrage français : ingénierie vivante](CADRAGE_INGENIERIE_VIVANTE_FR.md)** : intention et construction pas à pas de la publication.
 - **[Premier manuscrit en anglais](MANUSCRIPT_DRAFT_01_EN.md)** · **[version Word](BYTE_NDT_LIVING_ENGINEERING_DRAFT_01_EN.docx)** : première base à travailler ensemble, non soumise.
 - **Mail à Fabien Dedieu** : brouillon préparé séparément, conservé privé et non envoyé.
+- **[Annexe E — les quatre URL](ANNEXE_E_URL_APPLICATIONS_FR_EN.md)** : accès direct aux quatre applications.
 - **[Parcours de démonstration](PARCOURS_DE_DEMONSTRATION.md)** : lecture cohérente des quatre applications.
 - **[Versions et validation](VERSIONS_ET_VALIDATION.md)** · **[registre technique](manifestes/APPLICATIONS.json)** : références figées et portée des preuves.
 - **[Figures et preuves](FIGURES_ET_PREUVES.md)** : sélection à arrêter avec les auteurs.
@@ -37,4 +38,4 @@ Les versions numériques acceptées restent conservées. Le dossier de publicati
 
 ## Points documentaires à compléter
 
-L'URL effective de C1 avec scanner reste à confirmer ; sa source et son entrée d'exécution sont identifiées. Les affiliations, contributions et références exactes de B001/B009/B014, ainsi que des présentations de Prague 2014 et Munich 2016, seront complétées avec les documents des auteurs. Aucun essai VR, avis d'EXTENDE/CIVA ou accord éditorial n'est présenté comme acquis.
+Les affiliations, contributions et références exactes de B001/B009/B014, ainsi que des présentations de Prague 2014 et Munich 2016, seront complétées avec les documents des auteurs. Aucun essai VR, avis d'EXTENDE/CIVA ou accord éditorial n'est présenté comme acquis.
