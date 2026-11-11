@@ -1,0 +1,518 @@
+{
+  "scope": "Exact triangle distances and inside/outside of closed central root at eight encoded poses; all mobile vertices. Not continuous assembly clearance. Adjacent blades are open meshes and are not certified by containment.",
+  "root_watertight": true,
+  "parts": [
+    {
+      "shot": 1,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 1.442415932546991,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.35393572800632,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 13.145809300949619,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 4.440892098500626e-16,
+      "min_outside_clearance_mm": -4.440892098500626e-16,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.28691206704262,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 23.32010084460705,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 21.722918184857676,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 1,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.990039759132635,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 4.258162475372384,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.145741633809276,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 12.392862796510828,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.0023797372081457067,
+      "min_outside_clearance_mm": -0.0023797372081457067,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.20361978782903,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 22.486583503932135,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 20.727877448824938,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 20,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.01310657733785,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 9.960199368767114,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 18.408578822078734,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 12.114898565450932,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.005497762153262526,
+      "min_outside_clearance_mm": -0.005497762153262526,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.30397527192645,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 21.79830845836064,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 20.00607313907582,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 54,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.995464550573798,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 14.242632062801922,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 19.570973603324553,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 14.850595529569231,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.004308284622146784,
+      "min_outside_clearance_mm": -0.004308284622146784,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.14315213279247,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 23.968482043048365,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 22.73943417962301,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 81,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.852169600000462,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 14.61780430122947,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 19.734987238906452,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 18.101822010678845,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.014525604746791564,
+      "min_outside_clearance_mm": -0.014525604746791564,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.05415125707715,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 26.112184918065985,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 25.74888874798043,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 117,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.833487851912572,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 11.140860674257825,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 18.604594202149418,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 13.224484722446919,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.002277357181725863,
+      "min_outside_clearance_mm": -0.002277357181725863,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.32065425574359,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 24.382289943104418,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 23.230245829797184,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 145,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.04430238835446,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 7.319345487853601,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 17.01392184031133,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 11.476245285566906,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 0.0005881549556989129,
+      "min_outside_clearance_mm": -0.0005881549556989129,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.28825186233247,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 22.895933051771298,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 21.224713786523147,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 172,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.15855617901882,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "C01_CHARIOT_CLE",
+      "vertices": 694,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 2.7923006658752363,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "C02_COQUILLE_ROTULE_GAUCHE",
+      "vertices": 3101,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 14.671931283855766,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "C03_COQUILLE_ROTULE_DROITE",
+      "vertices": 3228,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 11.790436483681741,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "P01_GABARIT_VOLUME_20_NON_UT",
+      "vertices": 3070,
+      "max_inside_mm": 7.105427357601002e-15,
+      "min_outside_clearance_mm": -7.105427357601002e-15,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "J01_ROTULE_TIGE_M3_REFERENCE",
+      "vertices": 3925,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 16.215556937699567,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "T01_TIGE_AXIALE_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 23.26250193392698,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "R01_RESSORT_ENVELOPPE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 21.58342605206086,
+      "vertices_inside_over_0_05mm": 0
+    },
+    {
+      "shot": 199,
+      "part": "V01_INSERT_GABARIT_REFERENCE",
+      "vertices": 1012,
+      "max_inside_mm": 0,
+      "min_outside_clearance_mm": 15.946265149435774,
+      "vertices_inside_over_0_05mm": 0
+    }
+  ]
+}

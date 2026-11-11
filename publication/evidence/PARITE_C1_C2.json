@@ -1,0 +1,108 @@
+{
+  "reference": "Scanner C1 R06 584db386",
+  "candidate": "Scanner C2 N2-R01",
+  "result_panes": {
+    "scan": {
+      "c1": true,
+      "c2": true
+    },
+    "indications": {
+      "c1": true,
+      "c2": true
+    },
+    "tfm": {
+      "c1": true,
+      "c2": true
+    },
+    "voxel": {
+      "c1": true,
+      "c2": true
+    },
+    "report": {
+      "c1": true,
+      "c2": true
+    },
+    "mechanics": {
+      "c1": true,
+      "c2": true
+    },
+    "guide": {
+      "c1": true,
+      "c2": true
+    }
+  },
+  "operator_controls": {
+    "scannerOperator": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerReverse": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerStop": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerForward": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerSpeed": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerResolution": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerDistance": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerCount": {
+      "c1": true,
+      "c2": true
+    },
+    "scannerClock": {
+      "c1": true,
+      "c2": true
+    }
+  },
+  "entrypoint_sections": {
+    "procedure_language": {
+      "c1": true,
+      "c2": true
+    },
+    "st.download_button": {
+      "c1": true,
+      "c2": true
+    },
+    "REFERENCE_COMMANDE.json": {
+      "c1": true,
+      "c2": true
+    },
+    "maquette_etude": {
+      "c1": true,
+      "c2": true
+    },
+    "NOTICE_BATI": {
+      "c1": true,
+      "c2": true
+    },
+    "PROCEDURE_EXAMEN": {
+      "c1": true,
+      "c2": true
+    },
+    "CONCEPT_COQUES": {
+      "c1": true,
+      "c2": true
+    }
+  },
+  "all_stored_poses": {
+    "count": 1981,
+    "maximum_orthogonality_error": 4.440892098500626e-16,
+    "minimum_determinant": 0.9999999999999997,
+    "maximum_determinant": 1.0000000000000004
+  }
+}

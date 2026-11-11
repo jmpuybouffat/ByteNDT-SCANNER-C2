@@ -1,0 +1,295 @@
+{
+  "scope": "Software/display review; author visual acceptance remains pending",
+  "payload_sha256": {
+    "DATA": "465622471cf5ee6872cfa690c7f5deea704763961dbd80b6c6d7560adc4b37bb",
+    "C2_REGISTRATION": "bfb8d6b7f7ba4dd52e2d06b8762b30d04bcee0e24ec41082fb591c7b1938139d",
+    "CONTACT": "22e70eac5dba062c1cfc90f1a8a8a3475413687aee8d6b8a1479225ef98d4e1a",
+    "BEAM3D": "7bc591ea431eab18d2a0cc42719e2bf23eb3dab3f575611b474430ba3341786e"
+  },
+  "errors": [],
+  "poses": [
+    {
+      "shot": 1,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 0,
+        "distance": 0,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 1.0000000000000002,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 20,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 19,
+        "distance": 17.615058675113286,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 1,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 54,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 53,
+        "distance": 57.600775110114384,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 1.0000000000000002,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 81,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 80,
+        "distance": 88.35108134150016,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 1.0000000000000004,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 117,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 116,
+        "distance": 139.54203420794255,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 0.9999999999999996,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 145,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 144,
+        "distance": 173.1290768462573,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 0.9999999999999999,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 172,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 171,
+        "distance": 206.44601718969068,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 1,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "shot": 199,
+      "scanner": {
+        "release": "N2-R01",
+        "shells": 2,
+        "mobileParts": 8,
+        "phase": 198,
+        "distance": 229.30850524527705,
+        "running": false,
+        "sourcePathUnchanged": true,
+        "shown": true,
+        "exploded": false,
+        "cameraMode": "overview",
+        "shellOpacity": 1,
+        "contactPositionErrorMm": 0,
+        "rotationDeterminant": 0.9999999999999998,
+        "cutPlanes": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "initial": {
+    "release": "N2-R01",
+    "shells": 2,
+    "mobileParts": 8,
+    "phase": 0,
+    "distance": 0,
+    "running": false,
+    "sourcePathUnchanged": true,
+    "shown": true,
+    "exploded": false,
+    "cameraMode": "overview",
+    "shellOpacity": 1,
+    "contactPositionErrorMm": 0,
+    "rotationDeterminant": 1.0000000000000002,
+    "cutPlanes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "motion": {
+    "start_mm": 88.35108134150016,
+    "after_forward": {
+      "release": "N2-R01",
+      "shells": 2,
+      "mobileParts": 8,
+      "phase": 81.40613928681461,
+      "distance": 90.35108134150019,
+      "running": false,
+      "sourcePathUnchanged": true,
+      "shown": true,
+      "exploded": false,
+      "cameraMode": "overview",
+      "shellOpacity": 1,
+      "contactPositionErrorMm": 0,
+      "rotationDeterminant": 1.0000000000000009,
+      "cutPlanes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "after_reverse": {
+      "release": "N2-R01",
+      "shells": 2,
+      "mobileParts": 8,
+      "phase": 78.43049608224553,
+      "distance": 87.35108134150022,
+      "running": false,
+      "sourcePathUnchanged": true,
+      "shown": true,
+      "exploded": false,
+      "cameraMode": "overview",
+      "shellOpacity": 1,
+      "contactPositionErrorMm": 0,
+      "rotationDeterminant": 1.0000000000000004,
+      "cutPlanes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "final": {
+    "shot": 199,
+    "rows": 199,
+    "finalVisible": true
+  },
+  "navigation": [
+    "indications",
+    "tfm",
+    "voxel",
+    "report",
+    "mechanics",
+    "guide",
+    "scan"
+  ]
+}
