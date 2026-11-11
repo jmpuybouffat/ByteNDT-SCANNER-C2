@@ -6,7 +6,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 from publication_view import build_publication_document
 st.set_page_config(page_title="BYTE NDT — C2 référence — FR / EN",layout="wide",initial_sidebar_state="collapsed")
-st.caption("C2 — R03 · RÉFÉRENCE UT RÉTABLIE / UT REFERENCE RESTORED · c69d400")
+st.caption("C2 — R03.1 · RÉFÉRENCE UT — VUES R04 / UT REFERENCE — DISPLAY R04")
 st.info("Application C2 de référence : 199 positions, PA EXTRADOS → première gorge INTRADOS G1. La superposition du scanner est retirée pendant la vérification du positionnement. / Reference C2 application: 199 positions, PA EXTRADOS → first INTRADOS groove G1. Scanner overlay removed while positioning is reviewed.")
 root=Path(__file__).parent / "cycle_complet"
 manifest=json.loads((root/"MANIFEST_REFERENCE_C2.json").read_text())
