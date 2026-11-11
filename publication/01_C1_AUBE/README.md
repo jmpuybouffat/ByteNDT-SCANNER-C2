@@ -16,4 +16,4 @@ Décrire l'examen de référence : contact, trajet, lois, champ calculé, cartog
 
 Captures début/milieu/fin, coupe contact–cible, cartographie finale et un exemple TFM/voxel. La table `C1_VALIDATION_REFERENCE.csv` intégrée au scanner C1 rapporte 5/5 correspondances EDM ; il s'agit du jeu source, pas d'une nouvelle campagne d'essais.
 
-URL Streamlit exacte de cette version à relever dans les paramètres du déploiement avant diffusion du dossier. Ne pas confondre une ancienne application source avec cette branche de publication.
+[Ouvrir C1](https://bytendt-lsb941-c1-fr-en.streamlit.app/) — URL indiquée dans `DEPLOIEMENT_FR_EN.md` au commit de référence. La source figée reste identifiée par le SHA ci-dessus ; le commit interne du déploiement actif n’a pas été relevé dans les paramètres Streamlit.

@@ -3,7 +3,7 @@
 **Statut : validé par l'auteur ; référence du niveau 2.**
 
 - Source : [ByteNDT-SCANNER-C1](https://github.com/jmpuybouffat/ByteNDT-SCANNER-C1).
-- Branche : `main` ; révision de référence : `584db386` (R06, 10 novembre 2026).
+- Branche : `main` ; révision de référence : `584db3867a9aae6b5c02bb8fe207fcc093c3882a` (R06, 10 novembre 2026).
 - Entrée Streamlit : `app.py`, Python 3.12.
 - Sous-domaine mentionné dans le README : `bytendt-lsb941-scanner-c1-fr-en` ; URL effective du déploiement à confirmer.
 

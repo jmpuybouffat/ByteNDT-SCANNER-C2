@@ -4,7 +4,7 @@
 
 - Source : [ByteNDT-B014-C2-TRUE-TWIN](https://github.com/jmpuybouffat/ByteNDT-B014-C2-TRUE-TWIN/tree/publication/c2-3aubes-fr-en).
 - Branche : `publication/c2-3aubes-fr-en`.
-- Dernière présentation R06 retrouvée : `71fd6e33`, 11 novembre 2026.
+- Dernière présentation R06 retrouvée : `71fd6e33dc97ebff5ad7ff3ba5ffd0f5547ee239`, 11 novembre 2026.
 - Référence UT précédant les corrections de présentation : `c69d40065bd8d24dfec2f03e8d43145025c9243c`.
 - [Application montrée par l'auteur](https://bytendt-lsb941-c2-fr-en.streamlit.app/). La capture confirme cette URL ; son SHA réellement déployé reste à relever dans Streamlit avant gel de publication.
 - Examen : PA EXTRADOS vers la première gorge INTRADOS G1 ; 199 positions, 16 915 lois, matrice 8 × 8, EDM_06 à EDM_11.
