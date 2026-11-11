@@ -18,4 +18,4 @@ L'auteur demande une annexe d'explication : données d'entrée, construction de 
 
 ## État de revue de C2
 
-Le scan sans incident, le projet de scanner et la structure complète comme C1 sont acceptés par l'auteur. Le défaut de visualisation qu'il confirme concerne la troisième capture 3D ; il ne signale pas ici un défaut des écrans TFM et voxel. C2 reste à revoir après correction de cet affichage.
+Le scan sans incident, le projet de scanner et la structure complète comme C1 sont acceptés par l'auteur. Le défaut de visualisation qu'il confirme concerne la troisième capture 3D ; il ne signale pas ici un défaut des écrans TFM et voxel. Le 11 novembre 2026, l’auteur accepte la correction N2-R02 et demande de passer au dossier et à la première publication internationale.

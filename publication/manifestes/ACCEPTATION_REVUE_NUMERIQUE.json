@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "reviewer": "Jean-Michel Puybouffat",
+  "record_type": "User acceptance recorded from chat; no industrial approval signature",
+  "applications": [
+    "A1",
+    "A2",
+    "A3",
+    "A4"
+  ],
+  "A4_revision": "N2-R02",
+  "A4_source_commit": "664bb4b787c32401966bf582199a2d211912dbde",
+  "user_confirmation": "c est bon ... on peut maintenant construire le dossier des 4 applications pour la publication",
+  "scope": "Digital scenario and application review",
+  "next_stage": "Workshop and virtual reality to be documented as carried out"
+}

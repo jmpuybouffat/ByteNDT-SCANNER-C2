@@ -1,31 +1,40 @@
-# BYTE NDT — Répertoire des quatre applications
+# BYTE NDT — Living Engineering
 
-**Priorité actuelle : valider C2 avec scanner. La publication sera construite ensuite, pas à pas avec l'auteur.**
+## Dossier des quatre applications et première base de publication
 
-| Élément | Application | Statut convenu avec l'auteur |
-|---|---|---|
-| A1 | [C1 — aube seule](01_C1_AUBE/README.md) | Validé, référence |
-| A2 | [C1 — contexte avec scanner](02_C1_SCANNER/README.md) | Validé, référence |
-| A3 | [C2 — aube seule](03_C2_AUBE/README.md) | Validé |
-| A4 | [C2 — contexte avec scanner](04_C2_SCANNER/README.md) | Scan et projet de scanner acceptés ; affichage 3D N2-R02 à revoir |
+**Jean-Michel Puybouffat · Fabien Dedieu · Tumelo Machaha**
+Version de travail 01 — 11 novembre 2026. Affiliations, contributions et accord final des coauteurs à préciser ensemble.
 
-« Aube seule » désigne le niveau d'examen UT sans scanner mécanique ; certaines vues peuvent conserver les aubes voisines comme repère visuel.
+Les **quatre applications sont acceptées dans la revue numérique de Jean-Michel**, dont C2 avec scanner **N2-R02**. Le dossier les rassemble comme éléments d'une publication internationale dédiée à l'**ingénierie vivante** : la continuité entre objet, géométrie, physique, procédure, outillage, résultats et usage en atelier.
 
-## Revue C2 en cours
+| Élément | Application | Rôle | État |
+|---|---|---|---|
+| A1 | [C1 — aube et examen UT](01_C1_AUBE/README.md) | Examen INTRADOS → EXTRADOS, 41 positions | Accepté, référence |
+| A2 | [C1 — contexte avec scanner](02_C1_SCANNER/README.md) | Même examen, montage et conduite entre les aubes | Accepté, référence |
+| A3 | [C2 — aube et examen UT](03_C2_AUBE/README.md) | Examen EXTRADOS → INTRADOS G1, 199 positions | Accepté |
+| A4 | [C2 — contexte avec scanner](04_C2_SCANNER/README.md) | Même structure complète que C1, avec les données C2 | Accepté, N2-R02 |
 
-Consigne de base : reprendre **l'application C1 complète**, avec la même organisation et toutes ses fonctions. Seuls le sens d'examen, la gorge visée, le parcours, les lois et les données propres à C2 changent.
+« Aube seule » désigne le niveau d'examen sans scanner mécanique ; les aubes voisines peuvent rester visibles comme contexte. Cette acceptation concerne les applications et le scénario numérique, pas la qualification d'un scanner matériel.
 
-- [Ouvrir le guide de revue C2](../REVUE_C2.md).
-- [Voir le montage au début](evidence/C2_N2_context_001.png), [au milieu du parcours](evidence/C2_N2_context_081.png) et [à la dernière position](evidence/C2_N2_context_199.png).
-- [Voir le détail du PA](evidence/C2_N2_detail_081.png) et [l'éclaté](evidence/C2_N2_exploded_081.png).
-- [Lire les contrôles et leurs limites](04_C2_SCANNER/VALIDATION.md).
+## Documents à ouvrir
 
-Les applications validées restent les références. Le point d'entrée de la candidate est `level2_app.py`. Cette branche n'active pas automatiquement la candidate dans Streamlit.
+- **[Dossier des quatre applications — Word](BYTE_NDT_DOSSIER_4_APPLICATIONS_V01.docx)** : catalogue, parcours, preuves, versions, mail et prochaine étape.
+- **[Cadrage français : ingénierie vivante](CADRAGE_INGENIERIE_VIVANTE_FR.md)** : intention et construction pas à pas de la publication.
+- **[Premier manuscrit en anglais](MANUSCRIPT_DRAFT_01_EN.md)** · **[version Word](BYTE_NDT_LIVING_ENGINEERING_DRAFT_01_EN.docx)** : première base à travailler ensemble, non soumise.
+- **Mail à Fabien Dedieu** : brouillon préparé séparément, conservé privé et non envoyé.
+- **[Parcours de démonstration](PARCOURS_DE_DEMONSTRATION.md)** : lecture cohérente des quatre applications.
+- **[Versions et validation](VERSIONS_ET_VALIDATION.md)** · **[registre technique](manifestes/APPLICATIONS.json)** : références figées et portée des preuves.
+- **[Figures et preuves](FIGURES_ET_PREUVES.md)** : sélection à arrêter avec les auteurs.
+- **[Annexes scientifiques](ANNEXES_SCIENTIFIQUES.md)** · **[première explication TFM–voxel](ANNEXE_D_TFM_VOXEL_DRAFT_FR.md)**.
+- **[Bibliographie de départ](REFERENCES_BIBLIOGRAPHIQUES.md)** · **[notes B001/B009/B014](NOTES_AUTEUR_POUR_LA_SUITE.md)**.
+- **[Atelier et réalité virtuelle](ATELIER_ET_REALITE_VIRTUELLE.md)** : prochaine activité annoncée, à documenter lors de sa réalisation.
 
-## Publication : étape suivante
+## Construire la publication ensemble
 
-Ce répertoire classe les quatre applications comme futurs éléments de la publication internationale BYTE NDT — Living Engineering. Aucun manuscrit n'est intégré à cette branche de revue. La rédaction et le choix des figures seront repris avec l'auteur après validation de C2.
+D'abord fixer le message scientifique et la définition de l'ingénierie vivante ; ensuite choisir les figures et relier méthodes, données et résultats ; intégrer les annexes ; enfin choisir la revue et préparer une version soumise à tous les auteurs. Le premier manuscrit est une base modifiable, pas un texte final.
 
-L'auteur prépare trois annexes : propagation des ondes mécaniques, calcul tensoriel pour la construction du twin et excitation ultrasonore. Fabrice Foucher / EXTENDE est un interlocuteur envisagé pour une lecture technique en lien avec CIVA. Aucun contact, avis ni accord n'est présumé.
+Les versions numériques acceptées restent conservées. Le dossier de publication est préparé sur une branche distincte de la branche qui alimente l'application Streamlit C2.
 
-Les validations ci-dessus concernent les applications et leur représentation. Elles ne constituent pas une qualification matérielle du scanner. L'historique reconstitué provient des sources GitHub et des décisions de cette conversation ; les anciens chats ne sont pas inclus.
+## Points documentaires à compléter
+
+L'URL effective de C1 avec scanner reste à confirmer ; sa source et son entrée d'exécution sont identifiées. Les affiliations, contributions et références exactes de B001/B009/B014, ainsi que des présentations de Prague 2014 et Munich 2016, seront complétées avec les documents des auteurs. Aucun essai VR, avis d'EXTENDE/CIVA ou accord éditorial n'est présenté comme acquis.
