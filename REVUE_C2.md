@@ -1,8 +1,12 @@
-# C2 avec scanner — revue N2-R01
+# C2 avec scanner — revue N2-R02
 
 **Objectif : valider le niveau 2 de C2, avec l'application C1 complète comme référence.**
 
 Le C1 aux deux niveaux et le niveau 1 C2 sont validés par l'auteur. Cette candidate rassemble l'examen C2 accepté et les géométries du scanner C2 pour terminer la revue du montage et du mouvement.
+
+## Dernier retour de revue
+
+Le scan sans incident et le projet de scanner sont acceptés par l’auteur. La vue 3D reste à revoir : N2-R02 distingue maintenant explicitement assemblage et éclaté, réassemble avant toute lecture et propose un contraste UT renforcé. [Détail de la correction](documentation/AFFICHAGE_C2_N2_R02.md). Les captures ci-dessous sont celles du premier passage N2-R01 ; la version active porte le repère N2-R02.
 
 ## Ce qui est repris de C1
 

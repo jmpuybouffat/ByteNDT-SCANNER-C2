@@ -3,6 +3,10 @@
 **Identifiant / Identifier : C2-PROC-DRAFT-01**  
 **Statut / Status : projet pour revue, non approuvé / draft for review, not approved**
 
+**Portée : premier draft servant de base. La procédure et ses réglages seront adaptés aux appareils, sondes, sabots et logiciels effectivement utilisés, puis examinés pour approbation.**
+
+**Scope: initial draft providing a working basis. The procedure and settings will be adapted to the instruments, probes, wedges and software actually used, then reviewed for approval.**
+
 ## Français
 
 ### Méthode et réglages — séquence opérateur

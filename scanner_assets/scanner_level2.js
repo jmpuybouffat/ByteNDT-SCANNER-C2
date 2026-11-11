@@ -5,6 +5,7 @@ const scannerFixedParts = [], scannerMobileParts = [];
 let scannerExploded = false, scannerShown = true, scannerRun = null;
 let scannerLast = 0, scannerSent = 0, scannerCameraMode = 'overview';
 let scannerShellOpacity = 1;
+let scannerUTContrast = true;
 function scannerMesh(d) {
   return new THREE.Mesh(geo(d.V, d.F), new THREE.MeshStandardMaterial({
     color: new THREE.Color(...d.color), roughness: .7, side: THREE.DoubleSide
@@ -27,6 +28,10 @@ function scannerPose(p) {
   scannerFixed.visible = scannerShown; scannerMobile.visible = scannerShown;
   contactGroup.visible = !scannerShown && document.getElementById('holder').checked;
   moving.visible = false;
+  // Exploded offsets are illustrative: never let a neighbouring blade appear
+  // to be the support for a displaced scanner component.
+  for(let i=0;i<base.length;i++)if(DATA.base[i].name.startsWith('Voisine'))
+    base[i].visible = !scannerExploded && document.getElementById('neighbors').checked;
 }
 const scannerPriorContact = contactGeometry;
 contactGeometry = function(p) { scannerPriorContact(p); scannerPose(p); };
@@ -38,7 +43,7 @@ function scannerContextMaterials() {
     material.clippingPlanes = []; material.clipIntersection = false;
     material.side = THREE.DoubleSide; material.needsUpdate = true;
     if (DATA.base[i].name.startsWith('Voisine')) {
-      base[i].visible = document.getElementById('neighbors').checked;
+      base[i].visible = !scannerExploded && document.getElementById('neighbors').checked;
       material.color.set(DATA.base[i].name.includes('verte') ? '#248757' : '#3559ae');
       material.opacity = .3;
     }
@@ -52,6 +57,7 @@ updateContactFrame = function(m) {
   scannerPriorFrame(m);
   if (keep) contactGeometry(keep);
   scannerPose(displayPose);
+  scannerApplyUTContrast();
   if (view) {
     az=view.az; el=view.el; radius=view.radius; target.copy(view.target);
     scannerContextMaterials();
@@ -68,18 +74,39 @@ scannerShellSlider.type='range'; scannerShellSlider.min='.15'; scannerShellSlide
 scannerShellSlider.step='.05'; scannerShellSlider.value='1'; scannerShellSlider.style.width='80px';
 scannerShellLabel.append(scannerShellText,scannerShellSlider);
 scannerBar.append(scannerShow,scannerExplode,scannerContext,scannerDetail,scannerShellLabel);
+const scannerContrastLabel=document.createElement('label'),scannerContrastText=document.createElement('span');
+const scannerContrastInput=document.createElement('input');
+scannerContrastInput.type='checkbox';scannerContrastInput.checked=true;scannerContrastInput.id='c2UTContrast';
+scannerContrastLabel.append(scannerContrastInput,scannerContrastText);scannerBar.append(scannerContrastLabel);
+function scannerApplyUTContrast(){
+  liveFan.material.opacity=scannerUTContrast ? .62 : .22;
+  liveShot.material.size=scannerUTContrast?6:3;
+  cloudP.material.size=scannerUTContrast?4.5:2.7;
+  for(const object of indications.children){
+    if(object.isSprite)object.scale.set(scannerUTContrast?30:22,scannerUTContrast?10:7,1);
+    else if(object.isMesh)object.scale.setScalar(scannerUTContrast?1.6:1);
+  }
+}
+scannerContrastInput.onchange=()=>{scannerUTContrast=scannerContrastInput.checked;scannerApplyUTContrast();scannerText()};
 function scannerText() {
   scannerShow.textContent=text(scannerShown?'Masquer le scanner':'Afficher le scanner',scannerShown?'Hide scanner':'Show scanner');
   scannerExplode.textContent=text(scannerExploded?'Assembler le scanner':'Éclater le scanner',scannerExploded?'Assemble scanner':'Explode scanner');
   scannerContext.textContent=text('Scanner entre les aubes','Scanner between blades');
   scannerDetail.textContent=text('Détail PA et guidage','PA and guide detail');
   scannerShellText.textContent=text('Opacité des coques','Shell opacity');
+  scannerContrastText.textContent=text('Contraste UT renforcé','Enhanced UT contrast');
   document.getElementById('childTitle').textContent=text('C2 — Niveau 2 · aube et scanner','C2 — Level 2 · blade and scanner');
   document.getElementById('warning').textContent=text(
-    'N2-R01 — Version de revue du scanner C2. Parcours et données UT du niveau 1 conservés. Codeur simulé.',
-    'N2-R01 — C2 scanner review. Level-1 path and UT data preserved. Simulated encoder.');
-  c2DisplayNote.textContent=text('Niveau 2 : aube complète et contexte sans découpe mobile · montage C2 à valider',
-    'Level 2: complete blade and context without moving cutaway · C2 assembly awaits validation');
+    'N2-R02 — Scan et projet de scanner acceptés par l’auteur ; revue de l’affichage UT. Codeur simulé.',
+    'N2-R02 — Replay and scanner concept accepted by the author; UT display under review. Simulated encoder.');
+  c2DisplayNote.textContent=scannerExploded?text(
+    'VUE ÉCLATÉE — pièces décalées pour explication, hors position de fonctionnement. Aubes voisines masquées.',
+    'EXPLODED VIEW — parts offset for illustration, outside operating positions. Adjacent blades hidden.'):
+    text('SCANNER ASSEMBLÉ — appui sur l’aube centrale ; balayage C2 EXTRADOS → INTRADOS.',
+    'ASSEMBLED SCANNER — contact on the central blade; C2 EXTRADOS → INTRADOS scan.');
+  if(scannerUTContrast)c2DisplayNote.textContent+=text(
+    ' Taille des repères et contraste renforcés ; amplitudes et coordonnées inchangées.',
+    'Larger markers and enhanced contrast; amplitudes and coordinates unchanged.');
 }
 scannerShow.onclick=()=>{scannerShown=!scannerShown;scannerPose(displayPose);scannerText()};
 scannerExplode.onclick=()=>{scannerExploded=!scannerExploded;scannerPose(displayPose);scannerText()};
@@ -104,6 +131,7 @@ threeButton.onclick=scannerDetailView;
 const scannerPriorLang=langScene;
 langScene=function(l){scannerPriorLang(l);scannerText()};
 document.getElementById('holder').addEventListener('change',()=>scannerPose(displayPose));
+document.getElementById('neighbors').addEventListener('change',()=>scannerPose(displayPose));
 window.addEventListener('message',e=>{
   if(e.source!==parent)return;
   const m=e.data;
@@ -115,9 +143,13 @@ window.addEventListener('message',e=>{
     scannerLast=0;scannerPose(displayPose);
   }else if(m?.type==='C2_SCANNER_STOP')scannerRun=null;
   else if(m?.type==='C2_SCANNER_SPEED'&&scannerRun)scannerRun.speed=Math.max(.1,Math.min(20,+m.speed||5));
-  else if(m?.type==='C2_GLIDE_PLAY'||m?.type==='C2_CONTACT_MOVE')scannerRun=null;
+  else if(m?.type==='C2_GLIDE_PLAY'||m?.type==='C2_CONTACT_MOVE'){
+    scannerRun=null;
+    if(scannerExploded){scannerExploded=false;scannerPose(displayPose);scannerText()}
+  }
 });
 function scannerLoop(t){
+  scannerExplode.disabled=!!scannerRun||!!glideJob||!!motionJob;
   const dt=scannerLast?Math.min(.1,(t-scannerLast)/1000):0;scannerLast=t;
   if(scannerRun){
     const job=scannerRun;
@@ -141,11 +173,13 @@ function scannerLoop(t){
     distance:distanceAtPhase(displayPose.phase),total:CONTACT.contact_arc_lengths.at(-1),running:!!scannerRun},'*')}
   requestAnimationFrame(scannerLoop);
 }
-window.C2Scanner={get audit(){return {release:'N2-R01',shells:scannerFixed.children.length,
+window.C2Scanner={get audit(){return {release:'N2-R02',shells:scannerFixed.children.length,
   mobileParts:scannerMobile.children.length,phase:displayPose.phase,distance:distanceAtPhase(displayPose.phase),
   running:!!scannerRun,sourcePathUnchanged:true,shown:scannerShown,exploded:scannerExploded,
   cameraMode:scannerCameraMode,shellOpacity:scannerShellOpacity,
+  enhancedUTContrast:scannerUTContrast,liveShotSize:liveShot.material.size,rayOpacity:liveFan.material.opacity,
+  neighboursShown:base.filter((o,i)=>DATA.base[i].name.startsWith('Voisine')).map(o=>o.visible),
   contactPositionErrorMm:scannerMobile.position.distanceTo(new THREE.Vector3(...displayPose.contact)),
   rotationDeterminant:new THREE.Matrix4().makeRotationFromQuaternion(scannerMobile.quaternion).determinant(),
   cutPlanes:base.map(o=>o.material.clippingPlanes?.length||0)}},context:scannerContextView,detail:scannerDetailView};
-scannerContextView();scannerText();requestAnimationFrame(scannerLoop);
+scannerContextView();scannerApplyUTContrast();scannerText();requestAnimationFrame(scannerLoop);

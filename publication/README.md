@@ -7,7 +7,7 @@
 | A1 | [C1 — aube seule](01_C1_AUBE/README.md) | Validé, référence |
 | A2 | [C1 — contexte avec scanner](02_C1_SCANNER/README.md) | Validé, référence |
 | A3 | [C2 — aube seule](03_C2_AUBE/README.md) | Validé |
-| A4 | [C2 — contexte avec scanner](04_C2_SCANNER/README.md) | Version de revue N2-R01 ; validation visuelle à terminer |
+| A4 | [C2 — contexte avec scanner](04_C2_SCANNER/README.md) | Scan et projet de scanner acceptés ; affichage 3D N2-R02 à revoir |
 
 « Aube seule » désigne le niveau d'examen UT sans scanner mécanique ; certaines vues peuvent conserver les aubes voisines comme repère visuel.
 

@@ -1,0 +1,20 @@
+{
+  "release": "N2-R02",
+  "payload_sha256": {
+    "DATA": "465622471cf5ee6872cfa690c7f5deea704763961dbd80b6c6d7560adc4b37bb",
+    "C2_REGISTRATION": "bfb8d6b7f7ba4dd52e2d06b8762b30d04bcee0e24ec41082fb591c7b1938139d",
+    "CONTACT": "22e70eac5dba062c1cfc90f1a8a8a3475413687aee8d6b8a1479225ef98d4e1a",
+    "BEAM3D": "7bc591ea431eab18d2a0cc42719e2bf23eb3dab3f575611b474430ba3341786e"
+  },
+  "errors": [],
+  "checks": [
+    "regular playback assembles scanner",
+    "exploded context hides neighbours",
+    "exploded mode labelled",
+    "explosion disabled during playback",
+    "UT size/opacity toggle",
+    "contact unchanged at 1/81/199",
+    "FR/EN",
+    "TFM/voxel routes render"
+  ]
+}

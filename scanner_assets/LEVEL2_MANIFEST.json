@@ -1,15 +1,16 @@
 {
-  "release": "N2-R01",
-  "status": "review candidate; author visual acceptance pending",
+  "release": "N2-R02",
+  "status": "Replay and scanner concept accepted by author; corrected UT display awaiting visual review",
   "level1_source_commit": "42cf616e335efe64327d528b2cc524671a17f276",
   "scanner_geometry_source_commit": "6ec5dc6fbc4cf9ea6ea1222a3684a839758997a9",
   "files": {
     "scanner_assets/SOURCE_SCANNER_R02.html": "058938b1d6828c2bc2b525a252c7e0dd5b1b396bfc632ddead62478a1af010f5",
-    "scanner_assets/scanner_level2.js": "6c0fe7edcaa9b97b9cdafa59d68efb046ef6d389f5ff1a255959f6de8ca16b93",
-    "scanner_assets/operator_level2.js": "5d11b57325375fdb09bcc10130211f98ad62fd4d08bfef9274177ce889bc7a6e",
+    "scanner_assets/scanner_level2.js": "cb7bbfc4996f0044ff14ef5044b62d33bf3d2afd7b57a72302cf0a2e091903b5",
+    "scanner_assets/operator_level2.js": "6e46a55c732d520c4cbe9d426fdff8b76104dd790429035af4bb45a1cd5e272d",
     "level2_document.py": "2cb433f4674100d2fea27f820b90fdc3b9d3ebead919e4afd88ecee7881ce4e5",
-    "level2_app.py": "ff47486da8b2421f2110d6a7f90ea36d386f0d5f4e8112efe05ffc9af9c2e36f",
+    "level2_app.py": "b8c6c033b83b64ca162a25a3fc99ef7896b7790a2a5d4a3676121b3814a42c7a",
     "cycle_complet/SCENE_C2_SYNCHRONISEE.html": "a38d593369781eb73940d5c6fbdfcb07eeeba4552aa688970ff61ec85aa41892",
-    "cycle_complet/00_OUVRIR_CYCLE_C2_FR_EN.html": "464fb188c1a602b3b5300ec7242bb7f180020287d1eb5a398564c5bf5131604c"
+    "cycle_complet/00_OUVRIR_CYCLE_C2_FR_EN.html": "464fb188c1a602b3b5300ec7242bb7f180020287d1eb5a398564c5bf5131604c",
+    "documentation/PROCEDURE_EXAMEN_C2_FR_EN.md": "7c362820ad45abb17050345857d4dca1adf5eb291c8739511749a86738b97838"
   }
 }

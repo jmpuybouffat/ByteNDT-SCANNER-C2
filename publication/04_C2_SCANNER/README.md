@@ -1,6 +1,6 @@
 # A4 — C2 : aube dans son contexte avec scanner
 
-**Statut : revue N2-R01 ; validation finale de l'auteur en cours.**
+**Statut : revue N2-R02 ; validation finale de l'auteur en cours.**
 
 - Dépôt : `jmpuybouffat/ByteNDT-SCANNER-C2`.
 - Entrée candidate : `level2_app.py`, distincte de `app.py`.
