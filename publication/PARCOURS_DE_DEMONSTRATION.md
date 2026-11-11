@@ -8,7 +8,7 @@ Ouvrir [C1 — aube et examen UT](https://bytendt-lsb941-c1-fr-en.streamlit.app/
 
 ## A2 — retrouver le même examen avec son scanner C1
 
-Utiliser la version acceptée de [ByteNDT-SCANNER-C1](https://github.com/jmpuybouffat/ByteNDT-SCANNER-C1/tree/584db3867a9aae6b5c02bb8fe207fcc093c3882a), entrée `app.py`. L’adresse Streamlit effective reste à confirmer ; le sous-domaine suggéré dans le README n’est pas retenu comme preuve de déploiement.
+Utiliser la version acceptée de [ByteNDT-SCANNER-C1](https://github.com/jmpuybouffat/ByteNDT-SCANNER-C1/tree/584db3867a9aae6b5c02bb8fe207fcc093c3882a), entrée `app.py`. [Ouvrir C1 avec scanner](https://bytendt-lsb941-scanner-c1-fr-en.streamlit.app/) — adresse confirmée par l’auteur.
 
 Montrer les trois aubes, le scanner assemblé puis son éclaté à l’arrêt. Revenir à l’assemblage, montrer l’avance/arrêt/retour et le codeur simulé, puis retrouver les résultats du même cas C1. Cette application constitue la référence du niveau avec scanner.
 
