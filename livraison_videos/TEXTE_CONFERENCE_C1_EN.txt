@@ -1,0 +1,61 @@
+BYTE NDT — C1 — Conference speaker script
+REV02 · 05:24 · EN
+
+Indicative timing; pause whenever an explanation needs more time.
+
+00:00–00:08 — Opening
+BYTE NDT presents the digital twin applied to large blade-root examinations. Our aim is to learn how the component, examination workflow and results connect.
+
+00:08–00:26 — Why this examination?
+The root transfers blade loads to the rotor. Groove geometry and adjacent blades constrain access. This case focuses on the first groove and on planning an ultrasonic examination suited to that access.
+
+00:26–00:44 — Role in maintenance
+Examination helps locate and characterise indications. Its value increases when conditions and results are retained for later comparison. It then supports maintenance reasoning together with applicable criteria and service data.
+
+00:44–01:02 — Contribution of the twin
+The twin brings together geometry, scanner, probe positions, ultrasonic data and interpretation. We can follow that chain using one case and consistent references. Here, source data are replayed: no physical UT instrument is connected.
+
+01:02–01:20 — An evolving root
+Living Engineering retains case states, learns from examination and organises comparisons. It also provides a framework for controlled variants. We seek to understand possible evolutions while keeping conditions and uncertainties explicit.
+
+01:20–01:34 — The case shown
+C1 uses INTRADOS support to examine the first EXTRADOS groove. Its path contains 41 positions, with 5 EDM references in the dossier. These notches provide study references; they do not by themselves represent every in-service crack.
+
+01:34–01:48 — Assembled and exploded scanner
+The two shells and carriage make the mechanical access concept visible. The exploded view explains the components at rest. This is a design study; manufacturing, clamping, water distribution and functional checks remain necessary for real hardware.
+
+01:48–02:04 — Contact and path
+The section links support face, probe position and target groove. It explains why access and orientation matter. Connecting geometry to examination is part of constructing the twin.
+
+02:04–02:28 — Selected positions
+We now look at three positions: 1, 21 and 41. Mechanical view, map and encoded trace share the same position index. The counter is simulated. These selected views illustrate replay synchronisation, not a recorded physical workshop scan.
+
+02:28–02:46 — Reference indications
+We find the case references and their associated results. The learning questions are what is observed, what could be masked and which other views could help interpretation. The provenance of each value must remain identifiable.
+
+02:46–03:04 — TFM reconstruction
+Reconstruction provides another view of the responses. It helps locate and discuss an indication. Its extent depends on imaging method and calculation conditions; it does not directly establish the exact crack shape.
+
+03:04–03:22 — Voxel representation
+Sections and volumetric views complement that interpretation. We must distinguish the displayed image volume from physical flaw volume. Comparing views helps explain the information they provide and its limits.
+
+03:22–03:40 — Report and traceability
+The report retains observations from the same case and the references needed to revisit them. It prepares comparison with another examination. Continuity across planning, positions, results and data retention is a concrete BYTE NDT objective.
+
+03:40–04:00 — Learning
+Learning can begin by predicting a response, observing the signal, comparing access configurations and explaining differences. Its value comes from confronting hypotheses with observations. C1 and C2 support the study of complementary configurations.
+
+04:00–04:20 — Connection to fracture mechanics
+Mechanical assessment needs an adopted flaw model, uncertainties, material and loading. UT image size is insufficient. The current applications do not yet compute validated criticality or service life; here we explain the chain to be developed.
+
+04:20–04:40 — State evolution
+Signal variation may reflect the flaw or changes in coupling, position or settings. Following the root through time requires documenting these factors before attributing a difference to growth. Measured states and simulated variants must remain distinct.
+
+04:40–05:00 — AI and possible scenarios
+AI can help propose scenarios under specified conditions. Responses must then come from consistent, checked calculations or data. This is hypothesis exploration; a possible scenario is not a validated prediction.
+
+05:00–05:14 — Next stage
+The next stage is an enriched case: new states, new observations, comparison and feedback into planning the next examination. That learning loop must be documented and checked at each step.
+
+05:14–05:24 — Conclusion
+Build the twin, learn from examination and follow the root through time: this is the BYTE NDT Living Engineering thread.

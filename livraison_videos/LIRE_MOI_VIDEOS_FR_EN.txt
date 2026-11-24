@@ -1,0 +1,71 @@
+BYTE NDT — THE DIGITAL TWIN / LIVING ENGINEERING
+Vidéos C1 et C2 — Revue 02 / C1 and C2 films — Review 02
+24 November 2026
+
+FR
+Deux cas, chacun en français et en anglais. Montage de captures réelles des
+applications, avec commentaires à l’écran, sans voix ni musique ajoutée.
+Durée vérifiée par version : 5 min 24 s. Format : 1920 × 1080, 25 images/s.
+Ouvrir OUVRIR_VIDEOS_BYTE_NDT.html après extraction de tout le ZIP : choix C1/C2,
+FR/EN, chapitres et plein écran. Garder les quatre MP4 dans le même dossier.
+Les fichiers MP4 sont autonomes et utilisables hors connexion après téléchargement.
+
+Le parcours associe : introduction à l’examen et à la maintenance, scanner assemblé
+et éclaté à l’arrêt, coupe de contact, positions repères du rejeu, cartographie,
+trace encodée d’origine, références EDM, TFM, voxel et rapport.
+Les vues sont issues des applications locales C1 R06 et C2 N2-R02. Les captures
+reprennent des positions sélectionnées ; elles ne constituent pas un enregistrement
+continu du mouvement réel d’un scanner physique. Les charges utiles UT ne sont pas
+recalculées pour ces vidéos.
+
+Le fil pédagogique relie observation et interprétation, puis pose le lien avec
+la mécanique de la rupture et l’évolution du cas. Les applications sources ne
+fournissent pas de calcul de criticité ou de durée de vie validé. L’exploration
+assistée par IA et la création d’états nouveaux sont présentées comme une perspective
+de développement. Une variation de signal ne prouve pas seule une croissance de fissure.
+
+Pour une visioconférence : utiliser les notes FR/EN, expliquer le cas et faire pause
+sur une vue utile. Garder le film téléchargé comme secours à la démonstration en direct.
+Une future voix off pourra s’appuyer sur les notes après revue du montage.
+
+Aucune mise à jour du site ni création d’adresse mail n’a été faite dans cette étape.
+Le domaine, le fournisseur de messagerie et le site à modifier restent à identifier.
+
+EN
+Two cases, each in French and English. Edited captures from the actual applications,
+with on-screen commentary and no added voice-over or music.
+Verified duration per edition: 5 min 24 s. Format: 1920 × 1080, 25 fps.
+After extracting the complete ZIP, open OUVRIR_VIDEOS_BYTE_NDT.html: choose C1/C2,
+FR/EN, chapters and full screen. Keep all four MP4 files in the same folder.
+The MP4 files are standalone and work offline after download.
+
+The workflow includes: examination and maintenance introduction, assembled scanner
+and exploded view at rest, contact section, selected replay positions, mapping,
+original encoded trace, EDM references, TFM, voxel representation and report.
+Views come from local C1 R06 and C2 N2-R02 applications. Captures show selected
+positions, not a continuous recording of a moving physical scanner. UT payloads
+are not recomputed for these films.
+
+The learning thread links observation and interpretation, then explains the connection
+to fracture mechanics and case evolution. Source applications provide no validated
+criticality or service-life calculation. AI-assisted exploration and generation of new
+states are presented as a development perspective. A signal variation alone does not
+prove crack growth.
+
+For video conferences: use the FR/EN speaker notes, explain the case and pause on
+useful views. Keep a downloaded film as a fallback for the live demonstration.
+A later voice-over can use the notes after montage review.
+
+No website update or email-account creation was performed in this stage. The domain,
+email provider and target site remain to be identified.
+
+OPTION SONORE / SOUND OPTION
+Le lecteur propose la bande sonore de la première vidéo, désactivée au départ et avec volume réglable. Elle figure dans AMBIANCE_PREMIERE_VIDEO.m4a ; les quatre MP4 restent sans son.
+The player offers the first video soundtrack, initially off and with adjustable volume. It is supplied as AMBIANCE_PREMIERE_VIDEO.m4a; all four MP4 files remain silent.
+
+TEXTES ET ESSAIS / SCRIPTS AND REVIEW
+TEXTES_CONFERENCE_FR_EN.html rassemble quatre textes chronométrés, imprimables, également fournis en TXT. La fiche de compréhension accompagne le test par un lecteur extérieur.
+TEXTES_CONFERENCE_FR_EN.html collects four timed printable speaker scripts, also supplied as TXT files. The comprehension sheet supports an independent viewer review.
+
+Chaque vidéo possède son questionnaire identifié : QUESTIONNAIRE_C1_FR.html, QUESTIONNAIRE_C1_EN.html, QUESTIONNAIRE_C2_FR.html et QUESTIONNAIRE_C2_EN.html.
+Each video has its own identified questionnaire, with matching case and language.

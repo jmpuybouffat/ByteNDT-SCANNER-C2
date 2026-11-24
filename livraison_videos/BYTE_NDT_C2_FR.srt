@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:08,000
+Même pièce, même parcours, mêmes données : suivre la continuité de l’examen.
+
+2
+00:00:08,000 --> 00:00:26,000
+Les racines des grandes aubes transmettent les efforts au rotor. Le cas présenté examine la première gorge, dont l’accès est contraint par la géométrie et les aubes voisines. Cas étudié : préparer et expliquer la recherche d’indications dans une zone difficile d’accès.
+
+3
+00:00:26,000 --> 00:00:44,000
+Un examen traçable aide à localiser, caractériser et comparer les indications. Son interprétation contribue aux décisions de maintenance avec les critères applicables et les données de service. La simulation et une image reconstruite ne suffisent pas à décider seules de l’aptitude au service.
+
+4
+00:00:44,000 --> 00:01:02,000
+Relier dans le même repère la pièce, le scanner, le parcours, les signaux, les cartes et le rapport. C1 et C2 présentent deux accès complémentaires à la racine. Dans cette démonstration, les réponses sources sont rejouées ; aucune acquisition physique n’est raccordée.
+
+5
+00:01:02,000 --> 00:01:20,000
+Comparer les examens successifs et créer des variantes contrôlées pour apprendre. Conserver les réglages, les incertitudes et l’origine de chaque état de la racine. Le suivi d’états successifs est un objectif à démontrer, pas une fonction de suivi industriel déjà validée.
+
+6
+00:01:20,000 --> 00:01:34,000
+Trois aubes : montrer l’accès à la racine et identifier la gorge à examiner.
+
+7
+00:01:34,000 --> 00:01:48,000
+Deux coques et un chariot : une étude de conception liée au parcours d’examen.
+
+8
+00:01:48,000 --> 00:02:04,000
+La coupe relie la face d’appui, la position de la sonde et la zone ciblée.
+
+9
+00:02:04,000 --> 00:02:12,000
+Positions sélectionnées du même rejeu : la géométrie, la cartographie et le signal restent synchronisés.
+
+10
+00:02:12,000 --> 00:02:20,000
+Positions sélectionnées du même rejeu : la géométrie, la cartographie et le signal restent synchronisés.
+
+11
+00:02:20,000 --> 00:02:28,000
+Positions sélectionnées du même rejeu : la géométrie, la cartographie et le signal restent synchronisés.
+
+12
+00:02:28,000 --> 00:02:46,000
+Comparer les références EDM et les résultats du même jeu de données.
+
+13
+00:02:46,000 --> 00:03:04,000
+Une reconstruction aide à interpréter les réponses ; elle ne remplace pas la géométrie vraie.
+
+14
+00:03:04,000 --> 00:03:22,000
+Distinguer l’image reconstruite de la forme et du volume réels de l’indication.
+
+15
+00:03:22,000 --> 00:03:40,000
+Rapport et exports : relier les observations aux références et paramètres du cas.
+
+16
+00:03:40,000 --> 00:04:00,000
+Prévoir la réponse, observer le signal, comparer les accès C1 et C2, puis expliquer son interprétation. Une référence EDM est un repère d’essai, pas une fissure de service identique. Objectif pédagogique : comprendre pourquoi une indication est visible, faible ou masquée.
+
+17
+00:04:00,000 --> 00:04:20,000
+Résultats UT → modèle de défaut et incertitudes → géométrie de fissure → chargement et matériau → analyse mécanique. La taille d’une image TFM ou voxel ne constitue pas directement la taille mécanique de fissure.
+
+18
+00:04:20,000 --> 00:04:40,000
+État de référence → examen suivant ou variante simulée → comparaison documentée → hypothèse d’évolution du défaut → réévaluation mécanique. Les applications actuelles ne calculent pas une criticité ou une durée de vie validée. Cette liaison reste à développer.
+
+19
+00:04:40,000 --> 00:05:00,000
+Définir les conditions → proposer des variantes → calculer les réponses avec un modèle adapté → vérifier la cohérence → comparer les conséquences. Perspective de développement : l’IA propose des hypothèses ; aucune génération validée de scénarios n’est démontrée ici.
+
+20
+00:05:00,000 --> 00:05:14,000
+Comparer des états successifs et documenter leur origine : prochaine étape à démontrer.
+
+21
+00:05:14,000 --> 00:05:24,000
+Préparer → exécuter → interpréter → conserver → comparer. BYTE NDT — Living Engineering.

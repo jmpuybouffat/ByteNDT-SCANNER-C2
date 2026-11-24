@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:08,000
+One component, one path, one dataset: follow the continuity of the examination.
+
+2
+00:00:08,000 --> 00:00:26,000
+Large blade roots transfer loads to the rotor. This case examines the first groove, where access is constrained by the geometry and adjacent blades. Study case: plan and explain the search for indications in a difficult access area.
+
+3
+00:00:26,000 --> 00:00:44,000
+A traceable examination helps locate, characterise and compare indications. Interpretation supports maintenance decisions together with applicable criteria and service data. Simulation and a reconstructed image alone do not establish fitness for service.
+
+4
+00:00:44,000 --> 00:01:02,000
+Link the component, scanner, path, signals, maps and report in one coordinate framework. C1 and C2 present complementary access configurations for the root. This demonstration replays source responses; no physical acquisition is connected.
+
+5
+00:01:02,000 --> 00:01:20,000
+Compare successive examinations and create controlled variants for learning. Retain settings, uncertainties and the origin of every root state. Successive-state monitoring is an objective to demonstrate, not an already validated industrial monitoring capability.
+
+6
+00:01:20,000 --> 00:01:34,000
+Three blades: show root access and identify the groove to be examined.
+
+7
+00:01:34,000 --> 00:01:48,000
+Two shells and a carriage: a design study linked to the examination path.
+
+8
+00:01:48,000 --> 00:02:04,000
+The section links the support face, probe position and target area.
+
+9
+00:02:04,000 --> 00:02:12,000
+Selected positions from one replay: geometry, mapping and signal remain synchronised.
+
+10
+00:02:12,000 --> 00:02:20,000
+Selected positions from one replay: geometry, mapping and signal remain synchronised.
+
+11
+00:02:20,000 --> 00:02:28,000
+Selected positions from one replay: geometry, mapping and signal remain synchronised.
+
+12
+00:02:28,000 --> 00:02:46,000
+Compare the EDM references and results from the same dataset.
+
+13
+00:02:46,000 --> 00:03:04,000
+A reconstruction helps interpret responses; it does not replace true geometry.
+
+14
+00:03:04,000 --> 00:03:22,000
+Distinguish the reconstructed image from the actual flaw shape and volume.
+
+15
+00:03:22,000 --> 00:03:40,000
+Report and exports: link observations to the case references and parameters.
+
+16
+00:03:40,000 --> 00:04:00,000
+Predict the response, observe the signal, compare C1 and C2 access, then explain the interpretation. An EDM reference is a test reference, not an identical in-service crack. Learning goal: understand why an indication is visible, weak or masked.
+
+17
+00:04:00,000 --> 00:04:20,000
+UT results → flaw model and uncertainty → crack geometry → loading and material → mechanical assessment. TFM or voxel image extent does not directly establish the mechanical crack size.
+
+18
+00:04:20,000 --> 00:04:40,000
+Reference state → next examination or simulated variant → documented comparison → hypothesised flaw evolution → mechanical reassessment. Current applications do not compute validated criticality or service life. This link remains to be developed.
+
+19
+00:04:40,000 --> 00:05:00,000
+Define the conditions → propose variants → compute responses using a suitable model → check consistency → compare consequences. Development perspective: AI proposes hypotheses; validated scenario generation is not demonstrated here.
+
+20
+00:05:00,000 --> 00:05:14,000
+Compare successive states and document their origin: the next step to demonstrate.
+
+21
+00:05:14,000 --> 00:05:24,000
+Plan → execute → interpret → retain → compare. BYTE NDT — Living Engineering.

@@ -1,0 +1,61 @@
+BYTE NDT — C2 — Texte d’accompagnement de conférence
+REV02 · 05:24 · FR
+
+Repères indicatifs ; faire pause si une explication demande plus de temps.
+
+00:00–00:08 — Ouverture
+BYTE NDT présente le jumeau numérique appliqué à l’examen des racines de grandes aubes. Notre objectif est d’apprendre à relier la pièce, le déroulement de l’examen et ses résultats.
+
+00:08–00:26 — Pourquoi cet examen ?
+La racine transmet les efforts de l’aube au rotor. La géométrie des gorges et la présence des aubes voisines limitent l’accès. Dans ce cas, nous nous intéressons à la première gorge et à la préparation d’un examen ultrasonore adapté à cet accès.
+
+00:26–00:44 — Rôle dans la maintenance
+L’examen aide à repérer et à caractériser des indications. Sa valeur augmente lorsque ses conditions et ses résultats sont conservés pour une comparaison ultérieure. Il contribue alors au raisonnement de maintenance, avec les critères applicables et les données de service.
+
+00:44–01:02 — Apport du jumeau
+Le jumeau rassemble la géométrie, le scanner, les positions de la sonde, les données ultrasonores et leur interprétation. Nous pouvons parcourir cette chaîne avec le même cas et les mêmes références. Ici, les données sources sont rejouées : aucun appareil UT physique n’est connecté.
+
+01:02–01:20 — Faire vivre la racine
+Le Living Engineering consiste à conserver les états du cas, à apprendre de l’examen et à organiser les comparaisons. Il permet aussi d’envisager des variantes contrôlées. Nous cherchons à comprendre les évolutions possibles, en gardant explicites les conditions et les incertitudes.
+
+01:20–01:34 — Le cas présenté
+C2 utilise un appui EXTRADOS pour examiner la première gorge INTRADOS G1. Le parcours comprend 199 positions et le dossier contient 6 références EDM. Ces entailles servent de références d’étude ; elles ne représentent pas à elles seules toutes les fissures de service.
+
+01:34–01:48 — Scanner assemblé et éclaté
+Les deux coques et le chariot rendent le projet d’accès mécanique visible. La vue éclatée explique les composants à l’arrêt. Il s’agit d’une étude de conception ; la fabrication, le serrage, la distribution d’eau et les vérifications de fonctionnement restent à traiter pour le matériel réel.
+
+01:48–02:04 — Contact et trajet
+La coupe aide à relier la face d’appui, la position de la sonde et la gorge ciblée. Elle explique pourquoi le choix de l’accès et de l’orientation est essentiel. Ce lien entre géométrie et examen est une partie du travail de construction du jumeau.
+
+02:04–02:28 — Positions repères
+Nous regardons maintenant trois positions : 1, 81 et 199. La vue mécanique, la carte et la trace encodée suivent le même indice de position. Le compteur est simulé. Ces vues sélectionnées illustrent la synchronisation du rejeu, et non un scan physique enregistré en atelier.
+
+02:28–02:46 — Indications de référence
+Nous retrouvons les références du cas et les résultats qui leur sont associés. La question pédagogique est de comprendre ce qui est observé, ce qui pourrait être masqué et quelles autres vues peuvent aider l’interprétation. La provenance de chaque valeur doit rester identifiable.
+
+02:46–03:04 — Reconstruction TFM
+La reconstruction offre une autre lecture des réponses. Elle aide à situer et à discuter une indication. Son étendue dépend cependant de la méthode d’imagerie et des conditions de calcul : elle ne donne pas directement la forme exacte de la fissure.
+
+03:04–03:22 — Représentation voxel
+Les coupes et la vue volumique complètent cette lecture. Nous devons distinguer le volume représenté dans l’image du volume physique du défaut. L’intérêt est de comparer les vues et de comprendre les informations qu’elles apportent, avec leurs limites.
+
+03:22–03:40 — Rapport et traçabilité
+Le rapport rassemble les observations du même cas et les références utiles à leur reprise. Il prépare la comparaison avec un autre examen. Cette continuité entre préparation, positions, résultats et conservation des données constitue un objectif concret de BYTE NDT.
+
+03:40–04:00 — Learning
+Pour apprendre, nous pouvons prévoir une réponse, observer ce que montre le signal, comparer les accès, puis expliquer l’écart. La valeur pédagogique vient de cette confrontation entre hypothèse et observation. C1 et C2 permettent d’étudier deux configurations complémentaires.
+
+04:00–04:20 — Lien vers la mécanique de la rupture
+Le passage à l’évaluation mécanique nécessite un modèle de défaut, des incertitudes, un matériau et un chargement définis. Une dimension d’image UT ne suffit pas. Les applications actuelles ne calculent pas encore une criticité ou une durée de vie validée ; nous explicitons ici la chaîne à construire.
+
+04:20–04:40 — Évolution des états
+Une variation du signal peut être liée au défaut, mais aussi au couplage, à la position ou aux réglages. Pour faire vivre la racine, il faut documenter ces facteurs avant d’attribuer une différence à une croissance. Les états mesurés et les variantes simulées doivent rester distincts.
+
+04:40–05:00 — IA et scénarios possibles
+L’IA peut aider à proposer des scénarios selon les conditions retenues. Les réponses doivent ensuite être calculées ou fournies par des données cohérentes et vérifiées. Nous parlons d’exploration d’hypothèses, sans confondre un scénario possible avec une prévision validée.
+
+05:00–05:14 — Prolongement
+Le prolongement est donc un cas que l’on enrichit : nouveaux états, nouvelles observations, comparaison et retour vers la préparation du prochain examen. Cette boucle d’apprentissage doit être documentée et vérifiée à chaque étape.
+
+05:14–05:24 — Conclusion
+Construire le jumeau, apprendre de l’examen et faire vivre la racine : c’est le fil conducteur de BYTE NDT — Living Engineering.

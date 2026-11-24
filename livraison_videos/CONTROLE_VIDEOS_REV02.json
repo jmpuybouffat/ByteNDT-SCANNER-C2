@@ -1,0 +1,407 @@
+{
+  "scope": "Media and player checks; not validation of learner understanding or physical models",
+  "files": [
+    {
+      "file": "BYTE_NDT_C1_Living_Engineering_FR_REV02.mp4",
+      "sha256": "d1f9f5e915d656d48bd9a5ed755d339b48dff4ff364effffe9006a1822c95fbd",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {
+          "duration": "324.000000",
+          "size": "9246220"
+        }
+      },
+      "capture_manifest": {
+        "case": "C1",
+        "language": "fr",
+        "frames": [
+          {
+            "shot": 1,
+            "rows": 1,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 0,
+              "distance": 0,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          },
+          {
+            "shot": 21,
+            "rows": 21,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 20,
+              "distance": 124.19225742724359,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          },
+          {
+            "shot": 41,
+            "rows": 41,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 40,
+              "distance": 249.04905865650704,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "file": "BYTE_NDT_C1_Living_Engineering_EN_REV02.mp4",
+      "sha256": "33897d4be8cd718d9e9f5c96bf2fee3cef0a57fc2334eaa23cb6bafb9ae6f49d",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {
+          "duration": "324.000000",
+          "size": "8930964"
+        }
+      },
+      "capture_manifest": {
+        "case": "C1",
+        "language": "en",
+        "frames": [
+          {
+            "shot": 1,
+            "rows": 1,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 0,
+              "distance": 0,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          },
+          {
+            "shot": 21,
+            "rows": 21,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 20,
+              "distance": 124.19225742724359,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          },
+          {
+            "shot": 41,
+            "rows": 41,
+            "scanner": {
+              "release": "R06",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 40,
+              "distance": 249.04905865650704,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false
+            }
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "file": "BYTE_NDT_C2_Living_Engineering_FR_REV02.mp4",
+      "sha256": "300d9d95c43b26d6e6c2805496a7a484965fda3d9f30f68a771ab9f26f57e67c",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {
+          "duration": "324.000000",
+          "size": "8920946"
+        }
+      },
+      "capture_manifest": {
+        "case": "C2",
+        "language": "fr",
+        "frames": [
+          {
+            "shot": 1,
+            "rows": 1,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 0,
+              "distance": 0,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 1.0000000000000002,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "shot": 81,
+            "rows": 81,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 80,
+              "distance": 88.35108134150016,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 1.0000000000000004,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "shot": 199,
+            "rows": 199,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 198,
+              "distance": 229.30850524527705,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 0.9999999999999998,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "errors": []
+      }
+    },
+    {
+      "file": "BYTE_NDT_C2_Living_Engineering_EN_REV02.mp4",
+      "sha256": "c035dd35ef199b1c97d1e829e9beaaf52f78c91d5e2b604a6c94560a8df29f2b",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {
+          "duration": "324.000000",
+          "size": "8571006"
+        }
+      },
+      "capture_manifest": {
+        "case": "C2",
+        "language": "en",
+        "frames": [
+          {
+            "shot": 1,
+            "rows": 1,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 0,
+              "distance": 0,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 1.0000000000000002,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "shot": 81,
+            "rows": 81,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 80,
+              "distance": 88.35108134150016,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 1.0000000000000004,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "shot": 199,
+            "rows": 199,
+            "scanner": {
+              "release": "N2-R02",
+              "shells": 2,
+              "mobileParts": 8,
+              "phase": 198,
+              "distance": 229.30850524527705,
+              "running": false,
+              "sourcePathUnchanged": true,
+              "shown": true,
+              "exploded": false,
+              "cameraMode": "overview",
+              "shellOpacity": 1,
+              "enhancedUTContrast": true,
+              "liveShotSize": 6,
+              "rayOpacity": 0.62,
+              "neighboursShown": [
+                true,
+                true
+              ],
+              "contactPositionErrorMm": 0,
+              "rotationDeterminant": 0.9999999999999998,
+              "cutPlanes": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ],
+        "errors": []
+      }
+    }
+  ],
+  "player": {
+    "four_editions_load": true,
+    "chapter_seek": true,
+    "optional_sound_plays_and_pauses": true,
+    "errors": []
+  }
+}
