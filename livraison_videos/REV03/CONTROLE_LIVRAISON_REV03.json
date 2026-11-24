@@ -1,0 +1,93 @@
+{
+  "duration": 171.84590203833278,
+  "scan_start": 16,
+  "scan_end": 112.30333333333333,
+  "voxel_start": 142.95333333333338,
+  "report_start": 158.54590203833277,
+  "scan_rate": 3,
+  "continuous_source_scan": "1 to 41",
+  "source_physics_unchanged": true,
+  "audio": "Original first-video soundtrack at 0.3 gain",
+  "scope": "C1 FR visual review, before rewriting narration and producing other editions",
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1600,
+        "height": 1048
+      },
+      {
+        "codec_name": "aac"
+      },
+      {
+        "codec_name": "bin_data"
+      }
+    ],
+    "chapters": [
+      {
+        "start_time": "0.000000",
+        "end_time": "8.000000",
+        "tags": {
+          "title": "Scanner assemblé"
+        }
+      },
+      {
+        "start_time": "8.000000",
+        "end_time": "16.000000",
+        "tags": {
+          "title": "Éclaté à l’arrêt"
+        }
+      },
+      {
+        "start_time": "16.000000",
+        "end_time": "112.303000",
+        "tags": {
+          "title": "Scan continu — lecture accélérée ×3"
+        }
+      },
+      {
+        "start_time": "112.303000",
+        "end_time": "120.303000",
+        "tags": {
+          "title": "Carte complète et scan 3D"
+        }
+      },
+      {
+        "start_time": "120.303000",
+        "end_time": "127.553000",
+        "tags": {
+          "title": "Indications de référence"
+        }
+      },
+      {
+        "start_time": "127.553000",
+        "end_time": "142.953000",
+        "tags": {
+          "title": "TFM agrandi"
+        }
+      },
+      {
+        "start_time": "142.953000",
+        "end_time": "158.546000",
+        "tags": {
+          "title": "Voxels et rotation 3D"
+        }
+      },
+      {
+        "start_time": "158.546000",
+        "end_time": "171.846000",
+        "tags": {
+          "title": "Rapport agrandi"
+        }
+      }
+    ],
+    "format": {
+      "duration": "171.846000",
+      "size": "8601818"
+    }
+  },
+  "sha256": "b6bbdc76b5adbf0de9a1b33115cd5a5561155ab931f56ae1c41a08d2825c2e4a",
+  "visual_review": "Source browser capture reviewed: continuous probe travel, progressive map/cloud; enlarged TFM; unclipped voxel; report excerpt without lateral text clipping."
+}

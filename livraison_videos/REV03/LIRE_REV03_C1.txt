@@ -1,0 +1,9 @@
+BYTE NDT — C1 — essai visuel REV03
+
+MP4 avec bande sonore de la première vidéo, à volume réduit. Durée : environ 2 min 52 s.
+00:16–01:52 : scan continu 1 à 41, accéléré ×3 et explicitement identifié. La carte et le nuage 3D se construisent pendant le mouvement.
+01:52 : carte complète. 02:00 : indications. 02:07 : TFM agrandi. 02:23 : voxels et rotation 3D. 02:39 : extraits agrandis du rapport, sans défilement latéral.
+
+Ce fichier est un prototype visuel C1 FR pour contrôler le déroulé et la lisibilité en salle. Les textes et l’introduction seront repris après revue du contenu. Les déclinaisons C2 et anglaises ne sont pas encore produites dans cette révision.
+
+Les données UT sources ne sont pas recalculées ; il s’agit du rejeu de l’application et non d’une acquisition physique connectée. L’aspect acier est un changement de rendu uniquement.
