@@ -1,0 +1,5 @@
+BASE COMMUNE BYTE NDT — 25 novembre 2026
+FR : conserver le lecteur à deux modes, la vitesse réglable, les étapes, les notes FR/EN, la sélection de fichier local et le plein écran. Pour chaque film, adapter le titre, la langue réelle du MP4, le nom de fichier, les chapitres et leurs horaires, et les commentaires. Signaler toute accélération déjà intégrée au montage. Garder distincts direction globale, normale locale, angle du sabot et loi PA. Tester les pauses de chapitre après chaque remontage. Ne pas annoncer une traduction de la vidéo lorsque seules les notes sont traduites.
+EN: retain two playback modes, variable speed, chapters, FR/EN notes, local file selection and fullscreen. For each film, adapt the title, actual MP4 language, filename, chapter times and commentary. Identify any speed-up baked into the edit. Distinguish global direction, local normal, wedge angle and PA focal law. Re-test boundary pauses after every edit. Do not describe translated notes as a translated video.
+
+Template: replace __CHAPTERS_JSON__ with the matching chapter array before use; customize the film-specific text and filename.

@@ -1,0 +1,142 @@
+[
+  {
+    "t": 0,
+    "fr": "Présentation de l’examen",
+    "en": "Examination introduction",
+    "nfr": "Le jumeau relie la pièce, l’accès, le scanner et les résultats.",
+    "nen": "The twin connects the component, access, scanner and results."
+  },
+  {
+    "t": 12,
+    "fr": "Passage entre les aubes",
+    "en": "Access between blades",
+    "nfr": "Le scanner doit respecter les contraintes du passage entre deux aubes.",
+    "nen": "The scanner must respect the geometric constraints between two blades."
+  },
+  {
+    "t": 24,
+    "fr": "Angles et effet de coin",
+    "en": "Angles and corner response",
+    "nfr": "45° est une direction dans le repère horizontal. La normale locale varie sur la surface courbe : l’angle relatif au plan tangent est différent. Le sabot nominal 55° et le secteur PA 35°–70° décrivent la configuration. Il ne faut pas confondre ces repères.",
+    "nen": "45° describes a direction in the horizontal frame. The local normal varies along the curved surface, so the angle relative to the tangent plane differs. The nominal 55° wedge and 35°–70° PA sector describe the configuration. These frames must be distinguished."
+  },
+  {
+    "t": 39,
+    "fr": "Référence 3 mm",
+    "en": "3 mm reference",
+    "nfr": "Référence EDM de 3 mm = 50 % de hauteur d’écran dans la convention de cartographie. Les autres indications ne mesurent pas nécessairement 3 mm.",
+    "nen": "A 3 mm EDM reference corresponds to 50% full-screen height in the mapping convention. Other indications are not necessarily 3 mm in size."
+  },
+  {
+    "t": 49,
+    "fr": "Scanner assemblé et éclaté",
+    "en": "Assembled and exploded scanner",
+    "nfr": "L’éclaté explique l’assemblage à l’arrêt. Le scanner est réassemblé pour le parcours.",
+    "nen": "The exploded view explains assembly while stationary. The scanner is reassembled for the path."
+  },
+  {
+    "t": 65,
+    "fr": "Scan continu",
+    "en": "Continuous scan",
+    "nfr": "La sonde se déplace et les données sources construisent la carte et le nuage UT. Cette séquence est déjà accélérée ×3 dans le MP4. Une vitesse de lecteur ×2 la montrera donc à ×6 par rapport à l’enregistrement source. « Rejeu » signifie déroulé des données numériques existantes, pas une nouvelle acquisition physique.",
+    "nen": "The probe moves while source data build the map and UT cloud. This segment is already accelerated ×3 in the MP4. Player speed ×2 therefore shows it at ×6 relative to the source recording. “Replay” means playing existing digital data, not a new physical acquisition."
+  },
+  {
+    "t": 161.303,
+    "fr": "Carte complète",
+    "en": "Completed map",
+    "nfr": "Lire la réponse avec sa position, sa référence et ses réglages.",
+    "nen": "Read each response with its position, reference and settings."
+  },
+  {
+    "t": 169.303,
+    "fr": "Indications retenues",
+    "en": "Retained indications",
+    "nfr": "Cinq références EDM sont mises en correspondance. La validation numérique ne démontre pas à elle seule l’absence de faux positifs.",
+    "nen": "Five EDM references are matched. Digital validation alone does not demonstrate the absence of false positives."
+  },
+  {
+    "t": 176.553,
+    "fr": "TFM — EDM_01",
+    "en": "TFM — EDM_01",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure.",
+    "nen": "TFM focuses transmitter–receiver contributions. Compare location, shape and amplitude with the same axes and settings. The image does not directly provide exact crack size."
+  },
+  {
+    "t": 184.553,
+    "fr": "TFM — EDM_02",
+    "en": "TFM — EDM_02",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure.",
+    "nen": "TFM focuses transmitter–receiver contributions. Compare location, shape and amplitude with the same axes and settings. The image does not directly provide exact crack size."
+  },
+  {
+    "t": 192.553,
+    "fr": "TFM — EDM_03",
+    "en": "TFM — EDM_03",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure.",
+    "nen": "TFM focuses transmitter–receiver contributions. Compare location, shape and amplitude with the same axes and settings. The image does not directly provide exact crack size."
+  },
+  {
+    "t": 200.553,
+    "fr": "TFM — EDM_04",
+    "en": "TFM — EDM_04",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure.",
+    "nen": "TFM focuses transmitter–receiver contributions. Compare location, shape and amplitude with the same axes and settings. The image does not directly provide exact crack size."
+  },
+  {
+    "t": 208.553,
+    "fr": "TFM — EDM_05",
+    "en": "TFM — EDM_05",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure.",
+    "nen": "TFM focuses transmitter–receiver contributions. Compare location, shape and amplitude with the same axes and settings. The image does not directly provide exact crack size."
+  },
+  {
+    "t": 216.553,
+    "fr": "Voxels — EDM_01",
+    "en": "Voxels — EDM_01",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils.",
+    "nen": "The three projections show the same response in three planes. Small dots are positions in the volume grid retained at the displayed threshold; each dot is not a separate defect. Preserve coordinate frames and thresholds when comparing states."
+  },
+  {
+    "t": 223.553,
+    "fr": "Voxels — EDM_02",
+    "en": "Voxels — EDM_02",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils.",
+    "nen": "The three projections show the same response in three planes. Small dots are positions in the volume grid retained at the displayed threshold; each dot is not a separate defect. Preserve coordinate frames and thresholds when comparing states."
+  },
+  {
+    "t": 230.553,
+    "fr": "Voxels — EDM_03",
+    "en": "Voxels — EDM_03",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils.",
+    "nen": "The three projections show the same response in three planes. Small dots are positions in the volume grid retained at the displayed threshold; each dot is not a separate defect. Preserve coordinate frames and thresholds when comparing states."
+  },
+  {
+    "t": 237.553,
+    "fr": "Voxels — EDM_04",
+    "en": "Voxels — EDM_04",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils.",
+    "nen": "The three projections show the same response in three planes. Small dots are positions in the volume grid retained at the displayed threshold; each dot is not a separate defect. Preserve coordinate frames and thresholds when comparing states."
+  },
+  {
+    "t": 244.553,
+    "fr": "Voxels — EDM_05",
+    "en": "Voxels — EDM_05",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils.",
+    "nen": "The three projections show the same response in three planes. Small dots are positions in the volume grid retained at the displayed threshold; each dot is not a separate defect. Preserve coordinate frames and thresholds when comparing states."
+  },
+  {
+    "t": 251.553,
+    "fr": "Rapport",
+    "en": "Report",
+    "nfr": "Synthèse des cinq lignes du CSV source. Les écarts sont des écarts de localisation par rapport aux références.",
+    "nen": "Summary of the five source CSV rows. Errors describe localization differences relative to the references."
+  },
+  {
+    "t": 267.553,
+    "fr": "Apport du jumeau et évolutions",
+    "en": "Twin contribution and evolution",
+    "nfr": "Le processus jumeau permet d’étudier plusieurs configurations avant l’investissement dans l’équipement UT et de préparer positions, orientations, parcours et lois. Les exports préparent le transfert ; l’import dépend du format accepté par l’instrument et de sa validation. Pour le machine learning, TFM et voxels sont des représentations à associer à des indications connues, aux conditions et aux réglages. Modifier une image ne démontre pas une croissance réelle.",
+    "nen": "The twin process supports configuration studies before investing in UT equipment and prepares positions, orientations, paths and focal laws. Exports support transfer; import depends on the instrument format and validation. For machine learning, TFM and voxels are representations to associate with known indications, conditions and settings. Changing an image does not demonstrate physical growth."
+  }
+]
