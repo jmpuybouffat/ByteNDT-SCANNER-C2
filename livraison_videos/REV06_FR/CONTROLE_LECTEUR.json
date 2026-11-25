@@ -1,0 +1,11 @@
+{
+  "duration": 355.56,
+  "chapter_seek": true,
+  "manual_boundary_pause": true,
+  "continuous_playback": true,
+  "speed_control": true,
+  "French_only_interface": true,
+  "TFM_and_voxel_explanations": true,
+  "local_file_selection": true,
+  "errors": []
+}

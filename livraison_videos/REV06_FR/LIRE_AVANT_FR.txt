@@ -1,0 +1,6 @@
+PACK C1 FRANÇAIS REV06
+Extraire le ZIP et ouvrir OUVRIR_CONFERENCE_C1_FR.html. Garder le MP4 dans le même dossier.
+Ce pack est en français ; il ne contient pas de partie anglaise à activer.
+Deux explications générales sont intégrées au MP4 avant les cinq TFM et les cinq vues voxel. Les notes du lecteur donnent un commentaire plus détaillé.
+Lecture continue ou conférence avec pauses. Vitesse réglable. Le scan est déjà accéléré ×3 dans le montage. La bande son est musicale : aucun commentaire vocal enregistré.
+Les résultats numériques sources restent inchangés. La légende anglaise résiduelle du voxel est remplacée par « Centre détecté ».

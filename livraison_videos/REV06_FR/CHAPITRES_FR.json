@@ -1,0 +1,112 @@
+[
+  {
+    "t": 0,
+    "fr": "Présentation de l’examen",
+    "nfr": "Le jumeau relie la pièce, l’accès, le scanner et les résultats."
+  },
+  {
+    "t": 12,
+    "fr": "Passage entre les aubes",
+    "nfr": "Le scanner doit respecter les contraintes du passage entre deux aubes."
+  },
+  {
+    "t": 24,
+    "fr": "Angles et effet de coin",
+    "nfr": "45° est une direction dans le repère horizontal. La normale locale varie sur la surface courbe : l’angle relatif au plan tangent est différent. Le sabot nominal 55° et le secteur PA 35°–70° décrivent la configuration. Il ne faut pas confondre ces repères."
+  },
+  {
+    "t": 39,
+    "fr": "Référence 3 mm",
+    "nfr": "Référence EDM de 3 mm = 50 % de hauteur d’écran dans la convention de cartographie. Les autres indications ne mesurent pas nécessairement 3 mm."
+  },
+  {
+    "t": 49,
+    "fr": "Scanner assemblé et éclaté",
+    "nfr": "L’éclaté explique l’assemblage à l’arrêt. Le scanner est réassemblé pour le parcours."
+  },
+  {
+    "t": 65,
+    "fr": "Scan continu",
+    "nfr": "La sonde se déplace et les données sources construisent la carte et le nuage UT. Cette séquence est déjà accélérée ×3 dans le MP4. Une vitesse de lecteur ×2 la montrera donc à ×6 par rapport à l’enregistrement source. « Rejeu » signifie déroulé des données numériques existantes, pas une nouvelle acquisition physique."
+  },
+  {
+    "t": 161.303,
+    "fr": "Carte complète",
+    "nfr": "Lire la réponse avec sa position, sa référence et ses réglages."
+  },
+  {
+    "t": 169.303,
+    "fr": "Indications retenues",
+    "nfr": "Cinq références EDM sont mises en correspondance. La validation numérique ne démontre pas à elle seule l’absence de faux positifs."
+  },
+  {
+    "t": 176.553,
+    "fr": "Comprendre la TFM",
+    "nfr": "TFM signifie méthode de focalisation totale. Les signaux émetteur-récepteur sont alignés selon leurs temps de trajet puis sommés pour chaque point de l’image. La couleur indique un niveau relatif en dB. U et V sont les coordonnées locales ; les contours −6 et −12 dB délimitent des niveaux de réponse, pas nécessairement les bords physiques du défaut."
+  },
+  {
+    "t": 211.553,
+    "fr": "TFM — EDM_01",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure."
+  },
+  {
+    "t": 219.553,
+    "fr": "TFM — EDM_02",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure."
+  },
+  {
+    "t": 227.553,
+    "fr": "TFM — EDM_03",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure."
+  },
+  {
+    "t": 235.553,
+    "fr": "TFM — EDM_04",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure."
+  },
+  {
+    "t": 243.553,
+    "fr": "TFM — EDM_05",
+    "nfr": "La TFM focalise les contributions émetteur-récepteur. Comparer localisation, forme et amplitude dans les mêmes axes et avec les mêmes réglages. L’image ne donne pas directement la taille exacte de la fissure."
+  },
+  {
+    "t": 251.553,
+    "fr": "Comprendre les voxels",
+    "nfr": "Un voxel est une cellule de la grille 3D portant une valeur de réponse reconstruite. Les points montrent les cellules affichées au seuil −6 dB, et non une collection de défauts. Les projections U–V, U–W et V–W sont trois vues du même volume. Elles servent à localiser et comparer la réponse ; le seuil modifie son étendue visible."
+  },
+  {
+    "t": 286.553,
+    "fr": "Voxels — EDM_01",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils."
+  },
+  {
+    "t": 293.553,
+    "fr": "Voxels — EDM_02",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils."
+  },
+  {
+    "t": 300.553,
+    "fr": "Voxels — EDM_03",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils."
+  },
+  {
+    "t": 307.553,
+    "fr": "Voxels — EDM_04",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils."
+  },
+  {
+    "t": 314.553,
+    "fr": "Voxels — EDM_05",
+    "nfr": "Les trois projections montrent la même réponse selon trois plans. Les petits points sont les positions de la grille volumique retenues au seuil affiché ; ils ne représentent pas chacun un défaut. Pour comparer deux états, conserver repères et seuils."
+  },
+  {
+    "t": 321.553,
+    "fr": "Rapport",
+    "nfr": "Synthèse des cinq lignes du CSV source. Les écarts sont des écarts de localisation par rapport aux références."
+  },
+  {
+    "t": 337.553,
+    "fr": "Apport du jumeau et évolutions",
+    "nfr": "Le processus jumeau permet d’étudier plusieurs configurations avant l’investissement dans l’équipement UT et de préparer positions, orientations, parcours et lois. Les exports préparent le transfert ; l’import dépend du format accepté par l’instrument et de sa validation. Pour le machine learning, TFM et voxels sont des représentations à associer à des indications connues, aux conditions et aux réglages. Modifier une image ne démontre pas une croissance réelle."
+  }
+]
