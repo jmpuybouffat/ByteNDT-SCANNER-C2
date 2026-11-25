@@ -1,0 +1,22 @@
+{
+  "case": "C1",
+  "language": "fr",
+  "duration": 360.553,
+  "EDM": [
+    "EDM_01",
+    "EDM_02",
+    "EDM_03",
+    "EDM_04",
+    "EDM_05"
+  ],
+  "all_chapters_seek": true,
+  "manual_pause": true,
+  "speed": true,
+  "complete_source_replay": true,
+  "source_rows": {
+    "shot": 41,
+    "rows": 41
+  },
+  "decode": true,
+  "errors": []
+}

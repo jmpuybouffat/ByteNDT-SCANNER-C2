@@ -1,0 +1,70 @@
+Extraire le ZIP, puis ouvrir OUVRIR_CONFERENCE_C1_FR.html. Garder le MP4 à côté du fichier HTML. Lecture continue ou conférence avec pauses par étape. Bande son musicale ; aucun commentaire vocal enregistré. Déroulé des données numériques sources, sans acquisition physique connectée.
+
+00:00 — Présentation de l’examen
+Le film présente le jumeau de l’examen de la première gorge des aubes L0, type LSB 941. Il relie la géométrie, l’accès, le scanner, le parcours, les réponses et le rapport.
+
+00:12 — Accès entre les aubes
+Le scanner est conçu pour guider la sonde dans le passage entre deux aubes. Le cas C1 utilise un appui intrados vers une gorge extrados ; le cas C2 utilise un appui extrados vers la première gorge intrados G1.
+
+00:24 — Direction et normale locale
+La direction globale à 45° est rapportée au plan horizontal. La normale locale change sur la surface courbe : l’angle relatif au sabot et à la tangente n’est pas le même. Le sabot nominal 55° en onde transversale et le secteur 35°–70° décrivent la configuration. La recherche d’effet de coin dépend de la géométrie de l’indication horizontale et de la paroi locale.
+
+00:42 — Référence 3 mm
+La référence de cartographie est une indication EDM de 3 mm associée à 50 % de hauteur d’écran. Cette convention ne signifie pas que les autres indications ont toutes cette taille. C1 comporte cinq références, C2 six références.
+
+00:54 — Scanner assemblé
+Scanner assemblé, éclaté, puis parcours numérique continu.
+
+01:02 — Scanner éclaté à l’arrêt
+Éclaté du scanner à l’arrêt.
+
+01:10 — Scan continu
+Le déplacement du scanner et la construction du scan sont synchronisés aux positions numériques sources. Le compteur et la vitesse du scanner sont simulés pour la visualisation : ils ne constituent pas une vitesse recommandée pour le matériel réel. Le facteur de lecture est indiqué à l’écran. Les réponses acoustiques ne sont pas recalculées pendant ce déroulé.
+
+02:46 — Carte complète
+Carte et nuage UT complets, 41 positions sur 41.
+
+02:54 — Indications retenues
+Cinq références EDM mises en correspondance.
+
+03:01 — Comprendre la TFM
+En chaque point P de la zone d’intérêt, la TFM somme de façon cohérente les signaux des couples émetteur i–récepteur j, aux temps de trajet émetteur → P → récepteur. Le calcul est répété en chaque point, pour les trajets et modes d’onde retenus dans la reconstruction. Il ne s’agit pas de sommer des amplitudes positives sans recalage temporel. Les familles de trajets peuvent être directes, avec un ou plusieurs rebonds, ou avec conversion de mode, selon le modèle retenu ; leur ajout apporte une information utile seulement si le modèle est adapté.
+
+03:36 — TFM — EDM_01
+Lire les axes, niveaux et contours. Comparer dans les mêmes conditions.
+
+03:44 — TFM — EDM_02
+Lire les axes, niveaux et contours. Comparer dans les mêmes conditions.
+
+03:52 — TFM — EDM_03
+Lire les axes, niveaux et contours. Comparer dans les mêmes conditions.
+
+04:00 — TFM — EDM_04
+Lire les axes, niveaux et contours. Comparer dans les mêmes conditions.
+
+04:08 — TFM — EDM_05
+Lire les axes, niveaux et contours. Comparer dans les mêmes conditions.
+
+04:16 — Comprendre les voxels
+Le pixel est une cellule 2D ; le voxel est une cellule 3D. La zone d’intérêt est discrétisée en cellules auxquelles on affecte une valeur de réponse reconstruite. Les points représentent les centres des cellules retenues au seuil d’affichage, pas des défauts individuels. Les projections U–V, U–W et V–W retiennent le maximum le long de la direction supprimée. Une grille plus fine ne garantit pas une meilleure résolution physique. En TFM volumique, le calcul focalisé est effectué sur les points de la grille 3D ; un voxel peut aussi porter une valeur issue d’un autre traitement volumique.
+
+04:51 — Voxels — EDM_01
+Trois projections et un volume de la même réponse.
+
+04:58 — Voxels — EDM_02
+Trois projections et un volume de la même réponse.
+
+05:05 — Voxels — EDM_03
+Trois projections et un volume de la même réponse.
+
+05:12 — Voxels — EDM_04
+Trois projections et un volume de la même réponse.
+
+05:19 — Voxels — EDM_05
+Trois projections et un volume de la même réponse.
+
+05:26 — Rapport
+Synthèse du CSV source ; données conservées.
+
+05:42 — Apport du jumeau
+Les TFM et voxels peuvent alimenter un jeu d’apprentissage documenté ; aucun modèle prédictif validé n’est démontré ici.

@@ -1,0 +1,14 @@
+C1 FRANÇAIS — REV07 — COMMENTAIRES ACTUALISÉS
+
+Cette version remplace le pack C1 français REV06 pour vos présentations.
+
+1. Conserver ce ZIP dans :
+11_PUBLISHING / BYTE_NDT_AUBES_C1_C2 / 01_C1_FR_REV07
+2. Extraire tout le ZIP.
+3. Ouvrir OUVRIR_CONFERENCE_C1_FR.html.
+4. Garder le MP4 et le lecteur HTML dans le même dossier.
+
+Les explications TFM et voxels sont intégrées au film ; les commentaires détaillés de conférence sont dans le lecteur et dans COMMENTAIRE_CONFERENCE.txt. Le questionnaire est joint.
+Bande son conservée ; aucun commentaire vocal enregistré.
+
+Conserver l’ancienne REV06 dans ARCHIVES pour éviter de la confondre avec cette version. Les packs C1 anglais, C2 français et C2 anglais REV07 restent valables.
