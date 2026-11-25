@@ -1,0 +1,70 @@
+Extract the ZIP, then open OPEN_CONFERENCE_C1_EN.html. Keep the MP4 beside the HTML file. Continuous playback or conference mode with chapter pauses. Music soundtrack; no recorded spoken narration. This is a digital replay of source data, not a connected physical acquisition.
+
+00:00 — Examination introduction
+This film presents the examination twin for the first root groove of L0 blades, LSB 941 type. It connects geometry, access, the scanner, the path, responses and the report.
+
+00:12 — Access between blades
+The scanner is designed to guide the probe in the gap between two blades. C1 uses intrados support towards an extrados groove; C2 uses extrados support towards the first intrados groove G1.
+
+00:24 — Direction and local normal
+The global 45° direction is relative to the horizontal plane. The local normal changes along the curved surface, so the angle relative to the wedge and tangent differs. The nominal 55° shear-wave wedge and 35°–70° sector describe the configuration. The corner response depends on the horizontal indication and local wall geometry.
+
+00:42 — 3 mm reference
+The mapping reference is a 3 mm EDM indication associated with 50% full-screen height. This convention does not imply that all indications have this size. C1 contains five references and C2 six.
+
+00:54 — Assembled scanner
+Digital replay · simulated encoder
+
+00:59 — Exploded scanner at rest
+Digital replay · simulated encoder
+
+01:04 — Continuous scan
+Scanner movement and scan construction are synchronized to digital source positions. The scanner counter and speed are simulated for visualization; they are not a recommended real-hardware scan speed. Playback rate is displayed. Acoustic responses are not recalculated during this sequence.
+
+02:40 — Completed map
+Digital replay · simulated encoder
+
+02:46 — Retained indications
+Digital replay · simulated encoder
+
+02:53 — Understanding TFM
+At each point P in the region of interest, TFM coherently sums signals from transmitter i–receiver j pairs at the transmitter → P → receiver travel times. The calculation is repeated at every point for the paths and wave modes selected in reconstruction. It is not a sum of positive magnitudes without time alignment. Path families may be direct, include one or more reflections, or mode conversions, depending on the selected model; adding paths is useful only when the model is appropriate.
+
+03:28 — TFM — EDM_01
+Read axes, levels and contours. Compare under the same conditions.
+
+03:36 — TFM — EDM_02
+Read axes, levels and contours. Compare under the same conditions.
+
+03:44 — TFM — EDM_03
+Read axes, levels and contours. Compare under the same conditions.
+
+03:52 — TFM — EDM_04
+Read axes, levels and contours. Compare under the same conditions.
+
+04:00 — TFM — EDM_05
+Read axes, levels and contours. Compare under the same conditions.
+
+04:08 — Understanding voxels
+A pixel is a 2D cell; a voxel is a 3D cell. The region of interest is discretized into cells carrying reconstructed response values. Dots represent centres of cells retained at the display threshold, not individual defects. U–V, U–W and V–W projections retain the maximum along the omitted direction. A finer grid does not guarantee better physical resolution. In volumetric TFM, focusing is evaluated on the 3D grid points; voxels may also carry values produced by other volume-processing methods.
+
+04:43 — Voxels — EDM_01
+Three projections and a volume of the same response.
+
+04:50 — Voxels — EDM_02
+Three projections and a volume of the same response.
+
+04:57 — Voxels — EDM_03
+Three projections and a volume of the same response.
+
+05:04 — Voxels — EDM_04
+Three projections and a volume of the same response.
+
+05:11 — Voxels — EDM_05
+Three projections and a volume of the same response.
+
+05:18 — Report
+Summary of the source CSV; data preserved.
+
+05:34 — Twin contribution
+TFM and voxels can contribute to a documented learning dataset; no validated predictive model is demonstrated here.
