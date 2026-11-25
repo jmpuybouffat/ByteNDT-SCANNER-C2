@@ -1,0 +1,45 @@
+BYTE NDT — C1 — REV05 — 25 novembre 2026
+JUMEAU — L’INGÉNIERIE VIVANTE / TWIN — LIVING ENGINEERING
+
+TITRE FR : Examen ultrasonore de la première gorge de la racine des aubes L0 — type LSB 941.
+TITLE EN: Ultrasonic examination of the first root groove of L0 blades — LSB 941 type.
+
+00:00–00:12 — OUVERTURE / OPENING
+FR : Le jumeau de l’examen relie la géométrie de la racine, l’accès entre les aubes, le scanner et les résultats. Le film montre le déroulé C1, de la préparation aux résultats.
+EN: The examination twin connects blade-root geometry, access between blades, the scanner and results. This film follows C1 from planning through to results.
+
+00:12–00:24 — ACCÈS / ACCESS
+FR : Le scanner est conçu pour guider le PA dans le passage entre deux aubes. La maquette doit permettre d’étudier le passage, l’appui et l’orientation. Le schéma indique le contexte géométrique ; ce n’est pas un plan de fabrication.
+EN: The scanner is designed to guide the PA in the gap between two blades. The mock-up supports the study of clearance, support and orientation. The diagram shows the geometric context; it is not a manufacturing drawing.
+
+00:24–00:39 — PRINCIPE / PRINCIPLE
+FR : Le parcours vise à maintenir une incidence favorable pour les indications critiques au milieu de la première gorge. L’effet de coin met en jeu l’indication horizontale et la paroi voisine ; le trajet précis dépend de leur géométrie locale. La configuration source déclare un sabot nominal 55° en onde transversale, une plage sectorielle 35° à 70° et un dépointage −10° à +10°. Les réponses retenues pour les cinq EDM C1 correspondent à des secteurs de 52° à 56°. Ces angles de configuration ne prouvent pas à eux seuls l’incidence locale sur chaque indication. Le schéma 45° de la REV04 est retiré.
+EN: The path aims to maintain a favourable incidence for critical indications in the middle of the first groove. The corner response involves the horizontal indication and the adjacent wall; its precise path depends on local geometry. The source configuration declares a nominal 55° shear-wave wedge, a 35°–70° sector range and −10° to +10° skew. The retained responses for the five C1 EDM references use sectors from 52° to 56°. Configuration angles alone do not establish local incidence on every indication. The REV04 fixed 45° diagram is withdrawn.
+
+00:39–00:49 — RÉFÉRENCE / REFERENCE
+FR : L’indication EDM de référence est de 3 mm, associée à 50 % de hauteur d’écran dans la cartographie. Il s’agit de la convention de sensibilité du jeu source ; cela ne signifie pas que toutes les indications ont une dimension de 3 mm. Le jeu comporte cinq références, 41 positions et 85 lois par position sur une matrice 8 × 8.
+EN: The reference EDM indication is 3 mm and corresponds to 50% full-screen height in the map. This is the source dataset sensitivity convention; it does not mean that every indication is 3 mm in size. The dataset contains five references, 41 positions and 85 focal laws per position on an 8 × 8 matrix.
+
+00:49–02:56.6 — DÉROULÉ DE L’EXAMEN / EXAMINATION SEQUENCE
+FR : Le scanner est présenté assemblé puis éclaté à l’arrêt. Il revient assemblé pour le parcours. Le mouvement de la sonde, la carte, la trace et le nuage UT sont synchronisés aux positions sources. Le scan est un rejeu numérique avec codeur simulé, accéléré trois fois. Un parcours mécanique C1 combine les lois électroniques PA 2D. C2 demeure une configuration complémentaire.
+EN: The scanner is shown assembled, then exploded while stationary, and reassembled for the path. Probe motion, the map, trace and UT point cloud are synchronized to the source positions. The scan is a digital replay with a simulated encoder, accelerated threefold. One C1 mechanical path combines 2D PA electronic focal laws. C2 remains a complementary configuration.
+
+02:56.6–03:36.6 — TOUTES LES TFM / ALL TFM IMAGES
+FR : Les cinq références EDM_01 à EDM_05 sont montrées successivement, huit secondes chacune. La focalisation TFM combine les contributions émetteur-récepteur. Les axes, niveaux et contours permettent la comparaison ; l’étendue reconstruite n’est pas directement une dimension exacte de fissure.
+EN: All five references, EDM_01 through EDM_05, are shown in sequence for eight seconds each. TFM focusing combines transmitter–receiver contributions. Axes, levels and contours support comparison; reconstructed image extent is not directly an exact crack dimension.
+
+03:36.6–04:11.6 — TOUS LES VOXELS / ALL VOXEL VIEWS
+FR : Chaque référence dispose de trois projections et d’un volume affiché au seuil −6 dB. Les cinq vues sont conservées dans le même ordre. Il faut garder les paramètres de représentation pour comparer des états successifs.
+EN: Each reference has three projections and a volume displayed at the −6 dB threshold. All five are shown in the same order. Display settings must be retained when comparing successive states.
+
+04:11.6–04:27.6 — RAPPORT / REPORT
+FR : La synthèse française reprend les cinq lignes du CSV de validation, avec des arrondis de lecture. Elle relie référence, tir, parcours, amplitude, secteur et écart à la référence. Une mise en correspondance 5/5 ne constitue pas une qualification physique ni l’absence de faux positifs.
+EN: The French summary reproduces the five validation CSV rows with display rounding. It connects reference, shot, path, amplitude, sector and reference-location error. A 5/5 match is not physical qualification or proof of no false positives.
+
+04:27.6–04:45.6 — APPORT DU JUMEAU / TWIN CONTRIBUTION
+FR : Le processus jumeau construit l’examen, relie l’exécution aux résultats et conserve le contexte pour comparer les examens. C’est cette continuité qui permet d’organiser le retour d’expérience et d’explorer des situations liées à la poursuite de l’exploitation. Le lien vers la mécanique de la rupture et l’apprentissage automatique exige des modèles, des données et une validation adaptés ; ces développements ne sont pas démontrés par le seul rejeu.
+EN: The twin process builds the examination, connects execution to results and preserves context for comparing examinations. This continuity supports feedback and exploration of situations arising from continued operation. Links to fracture mechanics and machine learning require suitable models, data and validation; these developments are not demonstrated by replay alone.
+
+ÉTAT / STATUS
+FR : Film C1 français avec musique, commentaire de conférence séparé FR/EN. Les TFM et voxels sont des captures des résultats sources, et le scan continu est conservé depuis la REV03. Le rapport présenté est une synthèse française issue du CSV, pas un nouvel export de l’application. La marque BYTE NDT est typographique ; aucun fichier de logo graphique approuvé n’a été retrouvé dans les sources examinées. Le film C2 et les films anglais restent à réaliser.
+EN: French C1 film with music and separate FR/EN conference commentary. TFM and voxel views are captures of source results, and the continuous scan is retained from REV03. The displayed report is a French CSV-derived summary, not a new application export. BYTE NDT uses a typographic wordmark; no approved graphic-logo file was found in the inspected sources. The C2 film and English films remain to be made.

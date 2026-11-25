@@ -1,0 +1,12 @@
+{
+  "EDM": [
+    "EDM_01",
+    "EDM_02",
+    "EDM_03",
+    "EDM_04",
+    "EDM_05"
+  ],
+  "TFM": 5,
+  "voxel": 5,
+  "source_table_cells_unchanged": true
+}

@@ -1,3 +1,6 @@
+RECTIFICATIF REV05 : le schéma fixe 45° est retiré. La source déclare un sabot 55° T ; secteurs des réponses EDM C1 retenues : 52°–56°. Voir REV05/NOTICE_COMMENTAIRE_FR_EN.txt.
+CORRECTION REV05: the fixed 45° diagram is withdrawn. The source declares a nominal 55° shear-wave wedge; retained C1 EDM response sectors: 52°–56°. See REV05/NOTICE_COMMENTAIRE_FR_EN.txt.
+
 BYTE NDT — The Digital Twin / Living Engineering
 
 REV04 · 25 novembre / November 2026 · Ajouts proposés pour revue / Proposed additions for review.
