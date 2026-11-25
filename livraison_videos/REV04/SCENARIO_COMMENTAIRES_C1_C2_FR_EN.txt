@@ -2,8 +2,8 @@ BYTE NDT — THE DIGITAL TWIN / LIVING ENGINEERING
 REV04 — 25 novembre / November 2026
 SCÉNARIO ET COMMENTAIRES FR/EN — VERSION À REVOIR
 
-STATUT : textes préparés ; nouveaux films REV04 non produits. L’environnement de montage est indisponible.
-STATUS: scripts prepared; REV04 films not produced. The editing environment is unavailable.
+STATUT : textes préparés ; nouveaux films REV04 non produits. Le montage est en préparation ; les films complets restent à vérifier.
+STATUS: scripts prepared; REV04 films not produced. Editing is in preparation; full films still require review.
 Durées cibles de montage / Target editing durations: indicative, around 6:45 per film.
 
 
@@ -310,3 +310,16 @@ COMMENTARY / DIRECTION : The author's proposed complete mock-up is a concrete st
 ON SCREEN : Build the twin, learn from examination, follow the root through time.
 COMMENTARY / DIRECTION : Close with BYTE NDT — The Digital Twin / Living Engineering and point to the report, procedure and questionnaire in the film language.
 
+
+
+MISE À JOUR ÉDITORIALE — 25 NOVEMBRE 2026
+
+Visée nominale définie pour l’examen : le parcours du PA cible à 45° une indication horizontale au milieu de la première gorge. Le schéma doit identifier l’indication, le rayon de visée et le repère local. Cette intention de conception ne signifie pas que chacune des 85 lois est à 45° ; les lois sources restent inchangées.
+
+Nominal examination aim: the PA path targets a horizontal indication at 45° in the middle of the first groove. The diagram must identify the indication, aiming ray and local frame. This design intention does not mean that each of the 85 laws is at 45°; source focal laws remain unchanged.
+
+Écran : « Visée 45° · première gorge » ; « Un parcours · PA 2D » ; « TFM : focaliser » ; « Voxels : croiser les vues ». Les explications complètes restent dans le commentaire de conférence.
+Screen: “45° aim · first groove”; “One path · 2D PA”; “TFM: focus”; “Voxels: compare views”. Full explanations remain in the conference commentary.
+
+Objectif de diffusion : proposer aux entreprises de services un cas d’étude pour préparer l’accès, la couverture et la procédure ; proposer aux fabricants une discussion technique sur le scanner, la sonde et le transfert vers un équipement. Étape proposée : choisir un cas industriel et définir ensemble un essai de démonstration.
+Outreach purpose: offer service companies a case study for access, coverage and procedure planning; engage manufacturers on the scanner, probe and equipment transfer. Proposed next step: select an industrial case and jointly define a demonstration trial.

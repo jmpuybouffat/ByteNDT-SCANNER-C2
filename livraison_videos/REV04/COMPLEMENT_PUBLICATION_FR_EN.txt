@@ -101,3 +101,16 @@ Manuscrit de travail / Working manuscript: https://github.com/jmpuybouffat/ByteN
 C1 : portée et intégration / Scope and integration: https://github.com/jmpuybouffat/ByteNDT-SCANNER-C1/blob/main/documentation/INTEGRATION_EXAMEN_COMPLET_FR_EN.md
 C1 : avant impression / Before printing: https://github.com/jmpuybouffat/ByteNDT-SCANNER-C1/blob/main/maquette_etude/LIRE_AVANT_IMPRESSION_FR_EN.md
 C2 : référence de parcours / Path reference: https://github.com/jmpuybouffat/ByteNDT-SCANNER-C2/blob/main/scanner_assets/REFERENCE_COMMANDE.json
+
+
+MISE À JOUR ÉDITORIALE — 25 NOVEMBRE 2026
+
+Visée nominale définie pour l’examen : le parcours du PA cible à 45° une indication horizontale au milieu de la première gorge. Le schéma doit identifier l’indication, le rayon de visée et le repère local. Cette intention de conception ne signifie pas que chacune des 85 lois est à 45° ; les lois sources restent inchangées.
+
+Nominal examination aim: the PA path targets a horizontal indication at 45° in the middle of the first groove. The diagram must identify the indication, aiming ray and local frame. This design intention does not mean that each of the 85 laws is at 45°; source focal laws remain unchanged.
+
+Écran : « Visée 45° · première gorge » ; « Un parcours · PA 2D » ; « TFM : focaliser » ; « Voxels : croiser les vues ». Les explications complètes restent dans le commentaire de conférence.
+Screen: “45° aim · first groove”; “One path · 2D PA”; “TFM: focus”; “Voxels: compare views”. Full explanations remain in the conference commentary.
+
+Objectif de diffusion : proposer aux entreprises de services un cas d’étude pour préparer l’accès, la couverture et la procédure ; proposer aux fabricants une discussion technique sur le scanner, la sonde et le transfert vers un équipement. Étape proposée : choisir un cas industriel et définir ensemble un essai de démonstration.
+Outreach purpose: offer service companies a case study for access, coverage and procedure planning; engage manufacturers on the scanner, probe and equipment transfer. Proposed next step: select an industrial case and jointly define a demonstration trial.

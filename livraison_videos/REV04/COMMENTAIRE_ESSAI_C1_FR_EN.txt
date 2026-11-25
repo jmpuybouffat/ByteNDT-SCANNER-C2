@@ -1,0 +1,33 @@
+BYTE NDT — C1 — ESSAI DE CONFÉRENCE REV04
+Ce texte suit l’essai C1 de 3 min 30 environ. Le scénario long FR/EN reste distinct.
+This text follows the approximately 3 min 30 C1 pilot. The longer FR/EN scenario is separate.
+
+00:00 — FR : La première gorge de la racine est une zone d’examen à accès contraint. BYTE NDT relie sa géométrie, la préparation du contrôle, les résultats et leur interprétation dans un même jumeau numérique.
+EN: The first blade-root groove is an examination area with constrained access. BYTE NDT connects its geometry, examination planning, results and interpretation within one digital twin.
+
+00:10 — FR : Le parcours PA est conçu pour viser à 45 degrés une indication horizontale au milieu de la première gorge. Ce schéma expose la visée nominale. La matrice 2D explore plusieurs directions électroniques : les 85 lois ne sont pas toutes à 45 degrés.
+EN: The PA path is designed to aim at a horizontal indication at 45 degrees in the middle of the first groove. This diagram shows the nominal aim. The 2D matrix explores multiple electronic directions: the 85 focal laws are not all at 45 degrees.
+
+00:26 — FR : Voici le scanner assemblé, puis éclaté à l’arrêt. Pour C1, l’appui est intrados et la gorge examinée est extrados. Les pièces voisines imposent les contraintes de passage. La vue générale des trois aubes reste à améliorer dans le montage suivant.
+EN: The scanner is shown assembled, then exploded while stationary. In C1, support is on the intrados and the examined groove is on the extrados. Adjacent components constrain access. The three-blade overview still needs improvement in the next edit.
+
+00:42 — FR : La sonde se déplace ; le signal, la carte et le nuage de points se construisent avec les positions sources. C’est un rejeu numérique avec codeur simulé, présenté en accéléré trois fois. Un seul parcours mécanique est associé aux lois électroniques de cette configuration ; C2 est un examen complémentaire.
+EN: The probe moves while the signal, map and point cloud build up with the source positions. This is a digital replay with a simulated encoder, shown at three times speed. One mechanical path is combined with the electronic focal laws for this configuration; C2 is a complementary examination.
+
+02:18 — FR : La carte complète permet de relier chaque réponse à sa position. Les références EDM servent à interpréter les résultats dans les conventions du jeu de données.
+EN: The completed map connects each response to its position. EDM references support interpretation within the dataset conventions.
+
+02:34 — FR : La TFM focalise les contributions émetteur-récepteur pour former une image. Comparer deux références dans le même repère aide à comprendre les réponses. L’étendue de l’image n’est pas une mesure exacte de fissure.
+EN: TFM focuses transmitter–receiver contributions into an image. Comparing two references in the same coordinate frame helps interpret responses. Image extent is not an exact crack measurement.
+
+02:49 — FR : Les trois projections et le volume voxel donnent des vues complémentaires. Les seuils de représentation influencent le volume affiché : il faut les conserver pour comparer deux états.
+EN: The three projections and voxel volume provide complementary views. Display thresholds influence the rendered volume and must be preserved when comparing states.
+
+03:05 — FR : Le rapport conserve le contexte et les résultats. Certaines parties de ce rapport source sont encore en anglais ; une version homogène est prévue dans chaque langue du film.
+EN: The report preserves context and results. Some sections of this source report are still in English; a consistent report in each film language is planned.
+
+03:18 — FR : L’objectif est de préparer la procédure, le scanner et le transfert vers l’instrumentation, puis d’organiser le retour d’expérience. Des états successifs et des scénarios cohérents peuvent préparer l’apprentissage automatique. Le lien à la mécanique de la rupture demandera les données de défaut, de matériau et de chargement. Nous proposons aux prestataires et fabricants de choisir un cas industriel et de définir un essai commun.
+EN: The aim is to prepare the procedure, scanner and transfer to instrumentation, then structure feedback. Successive states and coherent scenarios can prepare machine learning. The fracture-mechanics link will require defect, material and loading data. We invite service companies and manufacturers to select an industrial case and define a joint trial.
+
+STATUT : essai de montage C1 français avec bande son musicale ; pas de voix enregistrée. Ce document fournit le commentaire de conférence FR/EN. Les films complets C1/C2 FR/EN ne sont pas tous finalisés.
+STATUS: French C1 editing pilot with music, without recorded narration. This document supplies FR/EN conference commentary. The full C1/C2 FR/EN films are not all finalized.
