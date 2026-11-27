@@ -1,0 +1,30 @@
+BYTE NDT — MAQUETTES SCANNERS C1/C2 — ÉCHELLE 1:1 — 27 NOVEMBRE 2026
+
+DESTINATION
+Vous disposez déjà d’une racine à l’échelle 1 et d’une imprimante FDM. Le dossier porte sur les scanners ; aucune nouvelle racine n’est à imprimer. Vérifier sur la racine existante l’identité géométrique et les dimensions avant une impression complète des coques.
+
+IMPORT IMPÉRATIF
+STL sans unité intrinsèque : choisir MILLIMÈTRES, échelle 100 %, sans ajustement automatique au plateau. Les fichiers gardent leurs coordonnées de conception ; la pose sur plateau et les supports relèvent du trancheur et du procédé. C1 et C2 ont leurs pièces propres : ne pas mélanger les chariots ni les coques.
+
+CONTENU
+C1 et C2 : H01/H02, deux coques ; C01, chariot ; C02/C03, demi-coquilles de rotule ; P01, gabarit de sonde NON UT. Quantité : une pièce de chaque par scanner pour la maquette. Les J01/T01/V01 du sous-dossier GABARITS_COMPOSANTS_NON_FONCTIONNELS sont des enveloppes facultatives d’illustration, pas du matériel réellement sélectionné. Le ressort R01 n’est pas fourni comme ressort imprimable. Visserie, ressorts, serrage et patins restent à sélectionner pour un montage réel.
+Les STEP disponibles décrivent les pièces et assemblages mobiles de référence. Les grandes coques n’ont PAS de STEP exact dans ce lot ; ce sont des maillages d’étude.
+
+CONTRÔLES EFFECTUÉS
+18 STL vérifiés après nettoyage : tous fermés par comptage des arêtes, orientation de volume positive, une composante par pièce, absence de triangles dégénérés et d’arêtes partagées incohérentes. Quelques facettes dégénérées de tessellation ont été retirées ; les coques à orientation inversée ont été retournées. Arrondi des sommets à 0,00001 mm ; aucun jeu fonctionnel ni trajectoire n’a été redessiné. Les rapports source et après nettoyage, dimensions et empreintes SHA256 sont joints.
+Ces vérifications ne couvrent pas les auto-intersections, l’épaisseur minimale réelle, la tenue mécanique, les paramètres de trancheur, l’étanchéité ni l’ajustement sur votre racine physique.
+
+CE QUI DOIT ÊTRE TRAITÉ AVEC NAXE
+Les coques atteignent environ 297 mm sur un axe. Consulter DIMENSIONS_PIECES_MM.csv avant de choisir le plateau. Si besoin, faire étudier une découpe avec assemblage : aucun découpage de coque n’est déjà livré.
+Pas de maillage de conception : 1 mm ; jeu intérieur initial 0,5 mm et paroi visée 4 mm, valeurs provisoires et non tolérances approuvées. Marge de passage échantillonnée : environ 0,054 mm en C1 et 0,116 mm en C2 ; ces marges ne permettent pas d’affirmer un coulissement réel en FDM. Un nettoyage de STL ne corrige pas ce point.
+Commencer par une revue dans le trancheur et un essai d’engagement adapté, à définir avec NAXE, plutôt que d’engager toutes les coques sans essai. Pour les photographies, documenter la maquette statique ; pour démontrer le mouvement, tester séparément montage, course complète, contact et répétabilité. Vérifier aussi le passage entre les aubes voisines ; une racine isolée ne démontre pas cet accès.
+
+DEUX ÉTAPES
+A — Maquette de conception 1:1 : montage sur racine existante, accès, repérage des pièces et photographies. Les fichiers actuels ne constituent pas un dossier de fabrication fonctionnelle validé.
+B — Porte-sonde réel : dimensionner pour la sonde physique, ses câbles et le couplage ; définir guidage, jeux et efforts, motorisation, mesure de position, commande et raccordement à l’instrument UT. Lire CAHIER_PORTE_SONDE_FONCTIONNEL_FR_EN.html.
+
+TRAJECTOIRES
+Les CSV TRAJECTOIRE_SOURCE donnent les points de contact et les repères du modèle, en mm, sans changement du parcours. C1 : appui intrados → gorge extrados ; C2 : appui extrados → gorge intrados G1. L’origine acoustique virtuelle n’est pas automatiquement la face d’une sonde réelle. Recaler la racine physique et déterminer les offsets de l’outil avant toute commande de mouvement. Les vecteurs ne constituent pas une cinématique de robot prête à exécuter. La vitesse simulée des vidéos n’est pas une spécification mécanique.
+
+LÉGENDE PHOTO PROPOSÉE
+« Maquette d’étude BYTE NDT imprimée à l’échelle 1:1 pour examiner le montage et l’accès. Les essais de guidage motorisé, de position et de couplage acoustique sont des étapes distinctes. »

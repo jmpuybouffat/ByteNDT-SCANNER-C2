@@ -1,0 +1,15 @@
+BYTE NDT — C1/C2 SCANNER MOCK-UPS — 1:1 — 27 NOVEMBER 2026
+
+The owner already has a full-scale root and an FDM printer. This package supplies scanner study parts, not another root. Import STL files as MILLIMETRES at 100%, without auto-fitting to the bed. C1 and C2 housings and carriages must not be mixed.
+
+Each case contains two concept shells H01/H02, carriage C01, joint shells C02/C03 and non-UT probe dummy P01. J01/T01/V01 are optional visual component envelopes, not selected functional hardware. No printable functional spring is supplied. STEP files describe reference moving parts/assemblies; the large shells are study STL meshes, not exact STEP solids.
+
+18 meshes were checked after cleanup: closed edge topology, positive volume orientation, one connected component, no degenerate triangles or inconsistent shared-edge orientation. Degenerate tessellation facets were removed, inverted shell winding was reversed and vertices rounded to 0.00001 mm. No functional clearances or trajectories were redesigned. This is not a self-intersection, minimum-wall, strength, slicer, leak or physical-fit qualification.
+
+Shell extents reach approximately 297 mm on one axis; check the dimensions CSV against the printer bed. Splitting and assembly features, if needed, are not supplied. Source geometry is sampled at 1 mm; provisional allowance 0.5 mm and target wall 4 mm are not approved manufacturing tolerances. Sampled carriage/shell margins are approximately 0.054 mm for C1 and 0.116 mm for C2, insufficient to establish FDM sliding fit. STL cleanup does not solve fit.
+
+Stage A: static 1:1 mock-up and photographs on the existing root, with an initial fit trial agreed with the manufacturer. Stage B: a real probe carrier designed around the selected physical probe, cable/couplant, full-path guiding, motor, position encoder, controls and UT interface. Check neighbouring-blade access as well as fit on an isolated root.
+
+Source path CSVs preserve model contact points and frames in mm. C1: intrados support to extrados groove; C2: extrados support to first intrados groove G1. The virtual acoustic origin is not automatically the physical probe face. Establish root registration and tool offsets before any motion control. These vectors are not ready-to-run robot kinematics, and video simulation speed is not a mechanical specification.
+
+Suggested photo caption: “BYTE NDT 1:1 printed study mock-up for assembly and access assessment. Motorized guidance, position measurement and acoustic coupling are separate verification stages.”
