@@ -1,0 +1,12 @@
+COMPLÉMENT PRIORITAIRE — DÉMONSTRATEUR MÉCANISÉ AVEC PA IMPRIMÉ
+Objectif du rendez-vous : un outil de démonstration à l’échelle 1 sur la racine existante, avec chariot motorisé et codeur, même si le PA est d’abord un gabarit imprimé.
+
+Phase 1 : vérifier montage et ajustement avec les pièces imprimées.
+Phase 2 : construire le démonstrateur à sec, PA imprimé amovible, déplacement sur toute la courbe et repérage effectif par codeur. Filmer le mouvement et enregistrer position/sens/temps. Cette phase peut commencer sans attendre la sonde Imasonic, en gardant son interface adaptable.
+Phase 3 : remplacer le gabarit par la sonde et le sabot réels après réception des données Imasonic ; vérifier encombrement, masse, contact, couplage et enfin synchronisation de l’acquisition UT.
+
+P01 est un gabarit non UT dans une enveloppe 20 × 20 × 20 mm, pas la CAO confirmée de la sonde Imasonic. Prévoir une fixation interchangeable et un éventuel lest ajustable après confirmation de la masse. Le mouvement du démonstrateur à sec ne valide pas le couplage ni les performances acoustiques.
+
+À CONCEVOIR AVEC NAXE
+Reprise des jeux et essai d’engagement ; appui et guidage sur toute la course ; fixation du PA imprimé ; transmission, moteur, codeur, supports, référence d’origine et limites de course. Ces organes et leurs supports ne sont pas déjà dessinés dans les STL fournis.
+Demander une proposition par phase : livrables mécaniques/électriques, données manquantes, coût et délai. Donner priorité au premier montage vérifiable plutôt qu’à une fabrication complète sans essai.
